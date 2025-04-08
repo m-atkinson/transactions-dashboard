@@ -1,0 +1,1331 @@
+Date,Amount,description,statement,vendor,category,tag,payment method
+12/30/2024,200.0,"GOOGLE *ADS969111984CC@GOOGLE.COM       CA, GOOGLE *ADS969111984CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+12/28/2024,10.0,"GOOGLE *ADS969111984CC@GOOGLE.COM       CA, GOOGLE *ADS969111984CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+12/28/2024,50.0,"GOOGLE *ADS969111984CC@GOOGLE.COM       CA, GOOGLE *ADS969111984CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+12/23/2024,110.25,"UPWORK*-764964473REFSAN FRANCISCO, UPWORK*-764964473REFSAN FRANCISCO","Jan 01, 2024 to Dec 31, 2024",Upwork,Professional fees,labor,amex
+12/22/2024,74.61,"GOOGLE *FI XZBZKV    G.CO/HELPPAY#      CA, GOOGLE *FI XZBZKV    G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,Cell Phone,phone,amex
+12/21/2024,89.83,"GOOGLE*FI 6R66CN GOO G.CO HELPPAY#, GOOGLE*FI 6R66CN GOO G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,Cell Phone,phone,amex
+12/20/2024,410.0,"JEWELERS-MUTUAL-PMNT800-558-6411        WI, JEWELERS-MUTUAL-PMNT800-558-6411        WI","Jan 01, 2024 to Dec 31, 2024",,,,amex
+12/20/2024,55.25,"VEED LIMITED        LONDON              GB, VEED LIMITED        LONDON              GB","Jan 01, 2024 to Dec 31, 2024",Veed,Office Supplies & Software,software,amex
+12/16/2024,5.0,"NOTION LABS, INC.   SAN FRANCISCO       CA, NOTION LABS, INC.   SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Notion,Office Supplies & Software,software,amex
+12/13/2024,12.95,"EXPRESSVPN.COM      WILMINGTON          DE, EXPRESSVPN.COM      WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",ExpressVPN,Office Supplies & Software,software,amex
+12/11/2024,9.99,"UBER ONE            help.uber.com       CA, UBER ONE            help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+12/10/2024,9.99,"ADOBE Adobe Systems SAN JOSE            CA, ADOBE Adobe Systems SAN JOSE            CA","Jan 01, 2024 to Dec 31, 2024",adobe,Office Supplies & Software,software,amex
+12/10/2024,20.0,"OPENAI *CHATGPT SUBSSAN FRANCISCO       CA, OPENAI *CHATGPT SUBSSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",OpenAI,Office Supplies & Software,software,amex
+12/09/2024,110.25,"UPWORK*-760722743REFSAN FRANCISCO, UPWORK*-760722743REFSAN FRANCISCO","Jan 01, 2024 to Dec 31, 2024",Upwork,Professional fees,labor,amex
+12/09/2024,84.99,"VERIZONRECURRING PAY800-VERIZON         FL, VERIZONRECURRING PAY800-VERIZON         FL","Jan 01, 2024 to Dec 31, 2024",Verizon,,,amex
+12/09/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+12/04/2024,8.0,"X CORP. PAID FEATURESAN FRANCISCO       CA, X CORP. PAID FEATURESAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Twitter,Office Supplies & Software,software,amex
+12/03/2024,-675.36,"POINTS FOR AMEX TRVL, POINTS FOR AMEX TRVL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+12/03/2024,9.99,"PRIME VIDEO CHANNELSAMZN.COM/BILL       WA, PRIME VIDEO CHANNELSAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+12/03/2024,675.36,"PwP    AMEXTRAVEL.CO800-297-2977        WA, PwP    AMEXTRAVEL.CO800-297-2977        WA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+12/03/2024,214.99,"UPWORK*-758787724REFSAN FRANCISCO, UPWORK*-758787724REFSAN FRANCISCO","Jan 01, 2024 to Dec 31, 2024",Upwork,Professional fees,labor,amex
+12/02/2024,1.03,"Amazon Web Services AWS.Amazon.com      WA, Amazon Web Services AWS.Amazon.com      WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,software,amex
+12/01/2024,12.0,"GOOGLE *CLOUD QKJCH3 G.CO/HELPPAY#      CA, GOOGLE *CLOUD QKJCH3 G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+12/01/2024,20.0,"INTUIT QUICKBOOKS   800-446-8848        CA, INTUIT QUICKBOOKS   800-446-8848        CA","Jan 01, 2024 to Dec 31, 2024",Quickbooks,Office Supplies & Software,software,amex
+12/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+12/01/2024,7.2,"SQSP* INV159751651  NEW YORK            NY, SQSP* INV159751651  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/17/2024,40.8,"DD *DOORDASH STARBUCSAN FRANCISCO       CA, DD *DOORDASH STARBUCSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",DoorDash,Food,louisa,amex
+11/17/2024,12.02,"HERTZTOLL 428918162 TAMPA               FL, HERTZTOLL 428918162 TAMPA               FL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/16/2024,14.99,"AIRFLIGHT INSURANCE PREMIUM 800-228-6855, AIRFLIGHT INSURANCE PREMIUM 800-228-6855","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/16/2024,16.38,"DD *DOORDASH STARBUCSAN FRANCISCO       CA, DD *DOORDASH STARBUCSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",DoorDash,Food,louisa,amex
+11/16/2024,27.7,"DD *DOORDASH STARBUCSAN FRANCISCO       CA, DD *DOORDASH STARBUCSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",DoorDash,Food,louisa,amex
+11/14/2024,164.3,"SP HEMSPHRS-WINEINSINAPA                CA, SP HEMSPHRS-WINEINSINAPA                CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/14/2024,4295.53,"TURKISH AIRLINES TURUNITED KINGDOM      GB, TURKISH AIRLINES TURUNITED KINGDOM      GB","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/12/2024,64.18,"DULLES WASHINGTON FLFairfax             VA, DULLES WASHINGTON FLFairfax             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/11/2024,103.35,"DD *DOORDASH FITZGERSAN FRANCISCO       CA, DD *DOORDASH FITZGERSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",DoorDash,Food,louisa,amex
+11/11/2024,12.37,"WRIGHT'S NATURAL MARNEW PORT RICH       FL, WRIGHT'S NATURAL MARNEW PORT RICH       FL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/09/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+11/08/2024,30.64,"BRAVO-MERCATO 0000  NAPLES              FL, BRAVO-MERCATO 0000  NAPLES              FL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/08/2024,188.67,"BRAVO-MERCATO 0000  NAPLES              FL, BRAVO-MERCATO 0000  NAPLES              FL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/07/2024,103.12,"HERTZ CAR RENTAL    TAMPA               FL, HERTZ CAR RENTAL    TAMPA               FL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/07/2024,9.99,"UBER ONE            help.uber.com       CA, UBER ONE            help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+11/06/2024,74.2,"BLUEMERCURY #172106 FAIRFAX             VA, BLUEMERCURY #172106 FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+11/01/2024,181.97,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+11/01/2024,12.16,"GOOGLE *CLOUD 2GT5VZ G.CO/HELPPAY#      CA, GOOGLE *CLOUD 2GT5VZ G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+11/01/2024,76.34,"MOMS OF MERRIFIELD 0FAIRFAX             VA, MOMS OF MERRIFIELD 0FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Mom's,Food,,amex
+11/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+11/01/2024,7.2,"SQSP* INV155953811  NEW YORK            NY, SQSP* INV155953811  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/31/2024,333.86,"HERTZ CAR RENTAL    OKLAHOMA CITY       OK, HERTZ CAR RENTAL    OKLAHOMA CITY       OK","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/30/2024,36.21,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+10/30/2024,88.81,"TARGET              FALLS CHURCH        VA, TARGET              FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+10/29/2024,45.55,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+10/28/2024,57.79,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+10/25/2024,27.56,"10005 CAVA MOSAIC   FAIRFAX             VA, 10005 CAVA MOSAIC   FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/25/2024,212.0,"REAL JEWELERS 180387ARLINGTON           VA, REAL JEWELERS 180387ARLINGTON           VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/22/2024,120.2,"TST* IMMIGRANT FOOD WASHINGTON          DC, TST* IMMIGRANT FOOD WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+10/20/2024,95.3,"ONEQUINCE           SAN FRANCISCO       CA, ONEQUINCE           SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/12/2024,26.49,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+10/12/2024,24.37,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+10/12/2024,104.34,"SP SUSANA MONACO    NEW YORK            NY, SP SUSANA MONACO    NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/11/2024,85.12,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+10/10/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+10/07/2024,164.3,"HEMSPHRS-WINEINSIDERNAPA                CA, HEMSPHRS-WINEINSIDERNAPA                CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/04/2024,9.99,"UBER ONE            help.uber.com       CA, UBER ONE            help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+10/03/2024,34.62,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+10/03/2024,6.88,"SLIPSTREAM DOWNTOWN Washington          DC, SLIPSTREAM DOWNTOWN Washington          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/02/2024,27.67,"MATCHBOX            FAIRFAX             VA, MATCHBOX            FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+10/01/2024,175.28,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+10/01/2024,11.95,"GOOGLE *CLOUD N5BWFJ G.CO/HELPPAY#      CA, GOOGLE *CLOUD N5BWFJ G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+10/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+10/01/2024,7.2,"SQSP* INV151962506  NEW YORK            NY, SQSP* INV151962506  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+09/29/2024,10.59,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+09/28/2024,21.19,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+09/28/2024,87.12,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+09/26/2024,64.96,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+09/19/2024,28.52,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+09/11/2024,500.0,"PAYPAL *SSLSOUTHERN 4029357733          GA, PAYPAL *SSLSOUTHERN 4029357733          GA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+09/10/2024,160.49,"HOTEL ON BOOKING.COMAMSTERDAM           NL, HOTEL ON BOOKING.COMAMSTERDAM           NL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+09/10/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+09/01/2024,191.11,"GOOGLE*ADS8454880227CC GOOGLE.COM, GOOGLE*ADS8454880227CC GOOGLE.COM","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+09/01/2024,12.19,"GOOGLE*CLOUD 4J85WV  G.CO HELPPAY#, GOOGLE*CLOUD 4J85WV  G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+09/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+09/01/2024,7.2,"SQSP* INV147595317  NEW YORK            NY, SQSP* INV147595317  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/29/2024,238.45,"WWW.SYMPATHY.SHOP   BATESVILLE          IN, WWW.SYMPATHY.SHOP   BATESVILLE          IN","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/27/2024,1296.79,"HARMONY HOTEL       MIKONOS             GR, HARMONY HOTEL       MIKONOS             GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/25/2024,71.6,"SCORPIOS BEACH CLUB MIKONOS             GR, SCORPIOS BEACH CLUB MIKONOS             GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/25/2024,75.18,"SCORPIOS BEACH CLUB MIKONOS             GR, SCORPIOS BEACH CLUB MIKONOS             GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/23/2024,17.56,"CUPSnPLATE_RODOS_P3 RODOS               GR, CUPSnPLATE_RODOS_P3 RODOS               GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/23/2024,15.21,"SSP HELLAS STARBUCKSRODOS AERODRO       GR, SSP HELLAS STARBUCKSRODOS AERODRO       GR","Jan 01, 2024 to Dec 31, 2024",Starbucks,Food,,amex
+08/17/2024,2047.12,"MITSIS GRAND HOTEL CRODOS               GR, MITSIS GRAND HOTEL CRODOS               GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/15/2024,250.0,"THUMBTACK.COM       MONTGOMERY VILLAGE  MD, THUMBTACK.COM       MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+08/11/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+08/09/2024,29.69,"RMS BEAUTY          CHARLESTON          SC, RMS BEAUTY          CHARLESTON          SC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/07/2024,61.4,"HONEYGROW           VIENNA              VA, HONEYGROW           VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/06/2024,6.88,"SLIPSTREAM DOWNTOWN Washington          DC, SLIPSTREAM DOWNTOWN Washington          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/03/2024,80.54,"HONEYGROW           VIENNA              VA, HONEYGROW           VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/03/2024,7.52,"NORDSTROM           MC LEAN             VA, NORDSTROM           MC LEAN             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/03/2024,292.56,"SEPHORA TYSONS CORNEMCLEAN              VA, SEPHORA TYSONS CORNEMCLEAN              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/02/2024,29.33,"SP+AFF* LOREN HOPE  SAN FRANCISCO       CA, SP+AFF* LOREN HOPE  SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/02/2024,104.97,"TST* FIG & OLIVE - DWASHINGTON          DC, TST* FIG & OLIVE - DWASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+08/01/2024,177.97,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+08/01/2024,12.2,"GOOGLE *CLOUD 7D8HMT G.CO/HELPPAY#      CA, GOOGLE *CLOUD 7D8HMT G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+08/01/2024,10.0,"METRO 041-ROSSLYN 10ARLINGTON           VA, METRO 041-ROSSLYN 10ARLINGTON           VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+08/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+08/01/2024,7.2,"SQSP* INV143361071  NEW YORK            NY, SQSP* INV143361071  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/22/2024,41.13,"10005D CAVA MOSAIC  703-988-4313        VA, 10005D CAVA MOSAIC  703-988-4313        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/22/2024,44.95,"FOREIGN AFFAIRS MAG 800-829-5539        NY, FOREIGN AFFAIRS MAG 800-829-5539        NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/17/2024,63.04,"IC* INSTACART*1102  SAN FRANCISCO       CA, IC* INSTACART*1102  SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+07/15/2024,209.37,"POSHMARK            support@poshmark.comCA, POSHMARK            support@poshmark.comCA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/14/2024,125.01,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+07/13/2024,30.79,"10005 CAVA MOSAIC   FAIRFAX             VA, 10005 CAVA MOSAIC   FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/12/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+07/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+07/10/2024,82.3,"MIGHTY MEALS 7392982GAINESVILLE         VA, MIGHTY MEALS 7392982GAINESVILLE         VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/09/2024,250.0,"THUMBTACK.COM       MONTGOMERY VILLAGE  MD, THUMBTACK.COM       MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+07/08/2024,41.1,"SP ILIOS LIGHTING   PERRYSBURG          OH, SP ILIOS LIGHTING   PERRYSBURG          OH","Jan 01, 2024 to Dec 31, 2024",Ting,Cell Phone,phone,amex
+07/07/2024,79.47,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+07/07/2024,186.26,"SAKSFIFTHAVENUE.COM https://www.saksfiftMD, SAKSFIFTHAVENUE.COM https://www.saksfiftMD","Jan 01, 2024 to Dec 31, 2024",,,,amex
+07/06/2024,27.56,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+07/06/2024,54.62,"MOMS OF MERRIFIELD 0FAIRFAX             VA, MOMS OF MERRIFIELD 0FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Mom's,Food,,amex
+07/03/2024,59.35,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+07/02/2024,38.37,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+07/01/2024,186.07,"GOOGLE*ADS8454880227CC GOOGLE.COM, GOOGLE*ADS8454880227CC GOOGLE.COM","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+07/01/2024,11.97,"GOOGLE*CLOUD 2RSXH9 MOUNTAIN VIEW       CA, GOOGLE*CLOUD 2RSXH9 MOUNTAIN VIEW       CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+07/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+07/01/2024,7.2,"SQSP* INV138936512  NEW YORK            NY, SQSP* INV138936512  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/29/2024,34.74,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+06/29/2024,47.19,"MOMS OF MERRIFIELD 0FAIRFAX             VA, MOMS OF MERRIFIELD 0FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Mom's,Food,,amex
+06/27/2024,21.19,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+06/27/2024,41.34,"SEPHORA MOSAIC DISTRFAIRFAX             VA, SEPHORA MOSAIC DISTRFAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/27/2024,43.51,"SUNOCO 0013766106 00FALLS CHURCH        VA, SUNOCO 0013766106 00FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",Sunoco,Gas,,amex
+06/24/2024,25.31,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+06/23/2024,50.0,"=CRYOXYGENCLINIC    703-559-3669        VA, =CRYOXYGENCLINIC    703-559-3669        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/23/2024,223.66,"REVOLVE             CERRITOS            CA, REVOLVE             CERRITOS            CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/23/2024,5.69,"UBER EATS           help.uber.com       CA, UBER EATS           help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+06/23/2024,27.11,"UBER EATS           help.uber.com       CA, UBER EATS           help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+06/22/2024,225.0,"IC* INSTACART*159   SAN FRANCISCO       CA, IC* INSTACART*159   SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+06/22/2024,10.0,"METRO 102-DUNN LORINFAIRFAX             VA, METRO 102-DUNN LORINFAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/22/2024,67.3,"TST* KELLY' GINGERNUCAPE CHARLES        VA, TST* KELLY' GINGERNUCAPE CHARLES        VA","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+06/21/2024,48.34,"JUST PEACHY CONV 000EXMORE              VA, JUST PEACHY CONV 000EXMORE              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/20/2024,29.33,"SP+AFF* LOREN HOPE  SAN FRANCISCO       CA, SP+AFF* LOREN HOPE  SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/19/2024,13.48,"CRAVINGS            Cape Charles        VA, CRAVINGS            Cape Charles        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/19/2024,5.84,"JUST PEACHY CONV 000EXMORE              VA, JUST PEACHY CONV 000EXMORE              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/19/2024,46.08,"JUST PEACHY CONV 000EXMORE              VA, JUST PEACHY CONV 000EXMORE              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/19/2024,92.06,"MIGHTY MEALS 7392982GAINESVILLE         VA, MIGHTY MEALS 7392982GAINESVILLE         VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/17/2024,22.0,"EXXONMOBIL 4807     WILLIAMSBURG        VA, EXXONMOBIL 4807     WILLIAMSBURG        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/16/2024,93.14,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+06/16/2024,154.78,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+06/15/2024,50.33,"CVS PHARMACY        FALLS CHURCH        VA, CVS PHARMACY        FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/14/2024,164.3,"SP HEMISPHERES-WINEIGLENDALE            CA, SP HEMISPHERES-WINEIGLENDALE            CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/13/2024,57.57,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+06/12/2024,19.07,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+06/12/2024,501.61,"HARMONY HOTEL       MIKONOS             GR, HARMONY HOTEL       MIKONOS             GR","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/12/2024,10.0,"STARBUCKS           800-782-7282        WA, STARBUCKS           800-782-7282        WA","Jan 01, 2024 to Dec 31, 2024",Starbucks,Food,,amex
+06/12/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+06/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+06/11/2024,10.0,"STARBUCKS           800-782-7282        WA, STARBUCKS           800-782-7282        WA","Jan 01, 2024 to Dec 31, 2024",Starbucks,Food,,amex
+06/11/2024,45.95,"SUNOCO 0013766106 00FALLS CHURCH        VA, SUNOCO 0013766106 00FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",Sunoco,Gas,,amex
+06/09/2024,20.72,"HONEYGROW           VIENNA              VA, HONEYGROW           VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/09/2024,20.0,"SQUARESPACE 13497272NEW YORK            NY, SQUARESPACE 13497272NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+06/08/2024,292.23,"HOTEL ON BOOKING.COMAMSTERDAM           NL, HOTEL ON BOOKING.COMAMSTERDAM           NL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/05/2024,179.14,"SP MISSOMA LIMITED  STAMFORD            CT, SP MISSOMA LIMITED  STAMFORD            CT","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/05/2024,135.0,"THUMBTACK.COM       MONTGOMERY VILLAGE  MD, THUMBTACK.COM       MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+06/04/2024,24.9,"CVS/PHARMACY #10833 WASHINGTON          DC, CVS/PHARMACY #10833 WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/04/2024,10.0,"METRO 102-DUNN LORINFAIRFAX             VA, METRO 102-DUNN LORINFAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+06/02/2024,46.59,"MOMS OF MERRIFIELD 0FAIRFAX             VA, MOMS OF MERRIFIELD 0FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Mom's,Food,,amex
+06/01/2024,185.22,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+06/01/2024,12.16,"GOOGLE *CLOUD JJ75GX G.CO/HELPPAY#      CA, GOOGLE *CLOUD JJ75GX G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+06/01/2024,86.32,"MOMS OF MERRIFIELD 0FAIRFAX             VA, MOMS OF MERRIFIELD 0FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Mom's,Food,,amex
+06/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+06/01/2024,7.2,"SQUARESPACE 13207570NEW YORK            NY, SQUARESPACE 13207570NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+05/31/2024,57.92,"SUNOCO 0013766106 00FALLS CHURCH        VA, SUNOCO 0013766106 00FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",Sunoco,Gas,,amex
+05/31/2024,56.33,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+05/28/2024,37.13,"TST* PAUL FRENCH BAKWASHINGTON          DC, TST* PAUL FRENCH BAKWASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+05/27/2024,85.55,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/26/2024,50.0,"=CRYOXYGENCLINIC    703-559-3669        VA, =CRYOXYGENCLINIC    703-559-3669        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/25/2024,75.0,"WWW.MATCHBOXRESTAURARESTON              VA, WWW.MATCHBOXRESTAURARESTON              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/24/2024,196.64,"SP AURATE NEW YORK  NEW YORK            NY, SP AURATE NEW YORK  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/23/2024,20.75,"CARDINAL TAILORING &FAIRFAX             VA, CARDINAL TAILORING &FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/20/2024,225.0,"THUMBTACK.COM       MONTGOMERY VILLAGE  MD, THUMBTACK.COM       MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+05/19/2024,8.75,"2LEVY@ORIOLESPARKMG BALTIMORE           MD, 2LEVY@ORIOLESPARKMG BALTIMORE           MD","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/19/2024,26.46,"2LEVY@ORIOLESPARKMG BALTIMORE           MD, 2LEVY@ORIOLESPARKMG BALTIMORE           MD","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/19/2024,15.16,"DD/BR #341097 Q35 34LAUREL              MD, DD/BR #341097 Q35 34LAUREL              MD","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/18/2024,34.54,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+05/18/2024,32.86,"SEPHORA MOSAIC DISTRFAIRFAX             VA, SEPHORA MOSAIC DISTRFAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/18/2024,31.5,"TST* MATCHBOX MERRIFFAIRFAX             VA, TST* MATCHBOX MERRIFFAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+05/17/2024,52.98,"VA ABC STORE 346 00-FALLS CHURCH        VA, VA ABC STORE 346 00-FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/15/2024,20.72,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/14/2024,19.31,"STARBUCKS STORE 2317SPRINGFIELD         VA, STARBUCKS STORE 2317SPRINGFIELD         VA","Jan 01, 2024 to Dec 31, 2024",Starbucks,Food,,amex
+05/13/2024,40.82,"FEALS, INC          844-311-9090        CO, FEALS, INC          844-311-9090        CO","Jan 01, 2024 to Dec 31, 2024",Ffeals,,louisa,amex
+05/13/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+05/12/2024,54.0,"CRYOXYGEN CLINIC    VIENNA              VA, CRYOXYGEN CLINIC    VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/12/2024,55.14,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/12/2024,86.88,"TFK-FAIRFAX VA      FAIRFAX             VA, TFK-FAIRFAX VA      FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+05/11/2024,86.8,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+05/06/2024,35.11,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/06/2024,18.04,"WALGREENS           VIENNA              VA, WALGREENS           VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+05/05/2024,143.74,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/04/2024,53.39,"SUNOCO 0013766106 00FALLS CHURCH        VA, SUNOCO 0013766106 00FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",Sunoco,Gas,,amex
+05/03/2024,61.48,"BLOOMINGDALES.COM   800-777-0000        OH, BLOOMINGDALES.COM   800-777-0000        OH","Jan 01, 2024 to Dec 31, 2024",Bloomingdales,Shopping (Consumer Goods),,amex
+05/03/2024,18.6,"HARRIS TEETER       WASHINGTON          DC, HARRIS TEETER       WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+05/01/2024,173.16,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+05/01/2024,12.16,"GOOGLE*CLOUD CV2GRV  G.CO HELPPAY#, GOOGLE*CLOUD CV2GRV  G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+05/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+05/01/2024,7.2,"SQUARESPACE 12680308NEW YORK            NY, SQUARESPACE 12680308NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+04/26/2024,143.81,"THE ITALIAN PLACE   Fairfax             VA, THE ITALIAN PLACE   Fairfax             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/26/2024,166.85,"TRADER JOE S #641 00FALLS CHURCH        VA, TRADER JOE S #641 00FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/25/2024,26.36,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+04/25/2024,118.66,"VA ABC STORE 346 00-FALLS CHURCH        VA, VA ABC STORE 346 00-FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/25/2024,63.63,"WEGMANS.COM#115 TYSNTYSONS              VA, WEGMANS.COM#115 TYSNTYSONS              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/24/2024,19.67,"PRIVIA MEDICAL GROUPARLINGTON           VA, PRIVIA MEDICAL GROUPARLINGTON           VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/21/2024,119.52,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+04/21/2024,262.93,"TRADER JOE S #640 00ARLINGTON           VA, TRADER JOE S #640 00ARLINGTON           VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/19/2024,43.17,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+04/19/2024,170.27,"COUNTY SEAT RESTAURAPOWHATAN            VA, COUNTY SEAT RESTAURAPOWHATAN            VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/19/2024,39.2,"VA ABC STORE 326 00-POWHATAN            VA, VA ABC STORE 326 00-POWHATAN            VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/18/2024,31.42,"CVS/PHARMACY #10833 WASHINGTON          DC, CVS/PHARMACY #10833 WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/16/2024,103.88,"VINEYARD VINES LLC  8008924982          CT, VINEYARD VINES LLC  8008924982          CT","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/15/2024,149.57,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+04/14/2024,101.25,"SP HEMISPHERES-WINEIGLENDALE            CA, SP HEMISPHERES-WINEIGLENDALE            CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/13/2024,40.82,"FEALS, INC          844-311-9090        CO, FEALS, INC          844-311-9090        CO","Jan 01, 2024 to Dec 31, 2024",Ffeals,,louisa,amex
+04/13/2024,110.72,"HARRIS TEETER #308 0VIENNA              VA, HARRIS TEETER #308 0VIENNA              VA","Jan 01, 2024 to Dec 31, 2024",Harris Teeter,Food,,amex
+04/13/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+04/12/2024,48.13,"TST* TATTE BAKERY - WASHINGTON          DC, TST* TATTE BAKERY - WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,Food,,amex
+04/11/2024,43.79,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+04/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+04/05/2024,525.0,"MYEYEDR 101117 VA-DUVIENNA              VA, MYEYEDR 101117 VA-DUVIENNA              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/05/2024,48.13,"SLEEPY HOLLOW GAS 46FALLS CHURCH        VA, SLEEPY HOLLOW GAS 46FALLS CHURCH        VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/04/2024,287.5,"EVERLOVED* TYLER HUNSAN FRANCISCO       CA, EVERLOVED* TYLER HUNSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/04/2024,38.56,"THE LOGAN PHILA FB  PHILADELPHIA        PA, THE LOGAN PHILA FB  PHILADELPHIA        PA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+04/01/2024,193.73,"GOOGLE*ADS8454880227CC GOOGLE.COM, GOOGLE*ADS8454880227CC GOOGLE.COM","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+04/01/2024,12.17,"GOOGLE*CLOUD VFSZXK  G.CO HELPPAY#, GOOGLE*CLOUD VFSZXK  G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+04/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+04/01/2024,7.2,"SQUARESPACE 12134443NEW YORK            NY, SQUARESPACE 12134443NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+03/28/2024,33.45,"SUNOCO 8000046102 80DUNN LORING         VA, SUNOCO 8000046102 80DUNN LORING         VA","Jan 01, 2024 to Dec 31, 2024",Sunoco,Gas,,amex
+03/27/2024,-178.08,"REVOLVE             CERRITOS            CA, REVOLVE             CERRITOS            CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/25/2024,529.93,"JW MARRIOTT         WASHINGTON          DC, JW MARRIOTT         WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/25/2024,195.0,"RENEWAL MEMBERSHIP FEE, RENEWAL MEMBERSHIP FEE","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/25/2024,14.21,"SP+AFF* DR. BRANDT SSAN FRANCISCO       CA, SP+AFF* DR. BRANDT SSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/18/2024,250.16,"BLOOMINGDALES.COM   800-777-0000        OH, BLOOMINGDALES.COM   800-777-0000        OH","Jan 01, 2024 to Dec 31, 2024",Bloomingdales,Shopping (Consumer Goods),,amex
+03/18/2024,178.08,"REVOLVE             CERRITOS            CA, REVOLVE             CERRITOS            CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/17/2024,42.82,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+03/16/2024,40.26,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+03/14/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+03/13/2024,1900.58,"ARTICLE 17238       TACOMA              WA, ARTICLE 17238       TACOMA              WA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/13/2024,157.94,"ARTICLE 83931       TACOMA              WA, ARTICLE 83931       TACOMA              WA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/13/2024,34.98,"FEALS, INC          844-311-9090        CO, FEALS, INC          844-311-9090        CO","Jan 01, 2024 to Dec 31, 2024",Ffeals,,louisa,amex
+03/13/2024,40.82,"FEALS, INC          844-311-9090        CO, FEALS, INC          844-311-9090        CO","Jan 01, 2024 to Dec 31, 2024",Ffeals,,louisa,amex
+03/13/2024,22.47,"TASTE OF T* TASTE OFHOUSTON             TX, TASTE OF T* TASTE OFHOUSTON             TX","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/13/2024,135.0,"WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD, WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+03/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+03/11/2024,14.22,"SP+AFF* DR. BRANDT SSAN FRANCISCO       CA, SP+AFF* DR. BRANDT SSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/10/2024,67.23,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+03/09/2024,50.0,"SP BODYOGRAPHY      SAN DIEGO           CA, SP BODYOGRAPHY      SAN DIEGO           CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+03/09/2024,10.0,"STARBUCKS           800-782-7282        WA, STARBUCKS           800-782-7282        WA","Jan 01, 2024 to Dec 31, 2024",Starbucks,Food,,amex
+03/05/2024,21.19,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+03/01/2024,172.94,"GOOGLE *ADS845488022CC@GOOGLE.COM       CA, GOOGLE *ADS845488022CC@GOOGLE.COM       CA","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+03/01/2024,9.68,"GOOGLE *CLOUD SW5M99 G.CO/HELPPAY#      CA, GOOGLE *CLOUD SW5M99 G.CO/HELPPAY#      CA","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+03/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+03/01/2024,7.2,"SQUARESPACE INC.    NEW YORK            NY, SQUARESPACE INC.    NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+02/26/2024,14.22,"SP+AFF* DR. BRANDT SSAN FRANCISCO       CA, SP+AFF* DR. BRANDT SSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/24/2024,102.79,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+02/22/2024,38.09,"SPRINKLES #509      WASHINGTON, DC      DC, SPRINKLES #509      WASHINGTON, DC      DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/18/2024,-48.75,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+02/16/2024,66.15,"BT*MLG*TERRITORY FOOARLINGTON           VA, BT*MLG*TERRITORY FOOARLINGTON           VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/14/2024,30.0,"ONE MEDICAL         SAN FRANCISCO       CA, ONE MEDICAL         SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/13/2024,49.88,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+02/13/2024,55.71,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+02/12/2024,49.25,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+02/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+02/11/2024,14.22,"SP+AFF* DR. BRANDT SSAN FRANCISCO       CA, SP+AFF* DR. BRANDT SSAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/10/2024,127.2,"LOVEVERY, INC.      BOISE               ID, LOVEVERY, INC.      BOISE               ID","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/10/2024,66.79,"SP RMS BEAUTY       CHARLESTON          SC, SP RMS BEAUTY       CHARLESTON          SC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+02/09/2024,135.0,"WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD, WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+02/01/2024,174.92,"GOOGLE*ADS8454880227CC GOOGLE.COM, GOOGLE*ADS8454880227CC GOOGLE.COM","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+02/01/2024,0.32,"GOOGLE*CLOUD 7GZKNH  G.CO HELPPAY#, GOOGLE*CLOUD 7GZKNH  G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+02/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+02/01/2024,7.2,"SQUARESPACE INC.    NEW YORK            NY, SQUARESPACE INC.    NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+01/31/2024,66.52,"AMAZON.COM          AMZN.COM/BILL       WA, AMAZON.COM          AMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+01/30/2024,52.99,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+01/26/2024,29.99,"VANITY FAIR         800-365-0635        NY, VANITY FAIR         800-365-0635        NY","Jan 01, 2024 to Dec 31, 2024",Vanity Fair,,louisa,amex
+01/25/2024,136.74,"VICTOR O'NEILL STUDIMCLEAN              VA, VICTOR O'NEILL STUDIMCLEAN              VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/23/2024,105.16,"TARGET.COM          800-591-3869        MN, TARGET.COM          800-591-3869        MN","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+01/21/2024,254.4,"SP AURATE NEW YORK  NEW YORK            NY, SP AURATE NEW YORK  NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/21/2024,41.2,"WWW.WANADA* THE 2024WASHINGTON          DC, WWW.WANADA* THE 2024WASHINGTON          DC","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/20/2024,60.27,"TFK-FAIRFAX VA      FAIRFAX             VA, TFK-FAIRFAX VA      FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/18/2024,12.11,"FACTOR75            BATAVIA             IL, FACTOR75            BATAVIA             IL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/18/2024,20.18,"FACTOR75            BATAVIA             IL, FACTOR75            BATAVIA             IL","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/18/2024,87.76,"FACTOR75            NEW YORK            NY, FACTOR75            NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",,,,amex
+01/18/2024,4.0,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+01/18/2024,72.59,"IC* INSTACART       SAN FRANCISCO       CA, IC* INSTACART       SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Instacart,Food,louisa,amex
+01/14/2024,58.93,"VESTA  AT&T         866-608-3007        OR, VESTA  AT&T         866-608-3007        OR","Jan 01, 2024 to Dec 31, 2024",At&t,,louisa,amex
+01/13/2024,-21.19,"AMAZON MARKETPLACE NAMZN.COM/BILL       WA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+01/11/2024,5.99,"ROKU FOR PEACOCK TV WILMINGTON          DE, ROKU FOR PEACOCK TV WILMINGTON          DE","Jan 01, 2024 to Dec 31, 2024",Roku,Entertainment,monthly,amex
+01/11/2024,192.0,"SQUARESPACE INC.    NEW YORK            NY, SQUARESPACE INC.    NEW YORK            NY","Jan 01, 2024 to Dec 31, 2024",SquareSpace,Office Supplies & Software,software,amex
+01/09/2024,335.0,"WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD, WWW.THUMBTACK.COM   MONTGOMERY VILLAGE  MD","Jan 01, 2024 to Dec 31, 2024",Thumbtack,,louisa,amex
+01/08/2024,5.25,"UBER EATS           help.uber.com       CA, UBER EATS           help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+01/08/2024,24.71,"UBER EATS           help.uber.com       CA, UBER EATS           help.uber.com       CA","Jan 01, 2024 to Dec 31, 2024",Uber,Travel and Transportation,,amex
+01/07/2024,51.25,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+01/06/2024,21.19,"AMAZON MARKEPLACE NA PA, AMAZON MARKETPLACE NAMZN.COM/BILL       WA","Jan 01, 2024 to Dec 31, 2024",Amazon,Office Supplies & Software,office supplies,amex
+01/01/2024,193.93,"GOOGLE*ADS8454880227CC GOOGLE.COM, GOOGLE*ADS8454880227CC GOOGLE.COM","Jan 01, 2024 to Dec 31, 2024",Google,COGS,paid media,amex
+01/01/2024,0.01,"GOOGLE*CLOUD 37DD3V  G.CO HELPPAY#, GOOGLE*CLOUD 37DD3V  G.CO HELPPAY#","Jan 01, 2024 to Dec 31, 2024",Google,,,amex
+01/01/2024,5.0,"PATREON* MEMBERSHIP SAN FRANCISCO       CA, PATREON* MEMBERSHIP SAN FRANCISCO       CA","Jan 01, 2024 to Dec 31, 2024",Patreon,Entertainment,monthly,amex
+01/01/2024,78.86,"TARGET        027904FAIRFAX             VA, TARGET        027904FAIRFAX             VA","Jan 01, 2024 to Dec 31, 2024",Target,Shopping (Consumer Goods),personal,amex
+12/31/2024,25.8,"SOTIRIOS SPANOS KAI, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+12/31/2024,91.92,"GB ROOF GARDEN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/30/2024,28.4,"MASOUTIS 563 PSILA ALONIA, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/30/2024,37.34,"ZANAR, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/29/2024,10.34,"WONDER NEST RET MON. A, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/29/2024,2.61,"ATTIKI ODOS, Travel, Sale",ty20240101_20241231_20250327,ATTIKI Odos,Travel and Transportation,,chase
+12/29/2024,2.61,"ATTIKI ODOS, Travel, Sale",ty20240101_20241231_20250327,ATTIKI Odos,Travel and Transportation,,chase
+12/27/2024,7.1,"GLYKIA GEFSI EE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/27/2024,63.5,"Wolt, Food & Drink, Sale",ty20240101_20241231_20250327,Wolt,Food,,chase
+12/24/2024,3.66,"PSITOPOLIS PATRA E E, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/24/2024,6.48,"LIAKOU NIKI, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+12/24/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/23/2024,7.52,"APOLLONION, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/23/2024,2.09,"KOFOU GEORGIA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/23/2024,2.5,"SPILIOTI ANTONIA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/23/2024,145.23,"NIKOLAOS P.SAKELLARIS AE, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/22/2024,175.84,"BARAONDA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/22/2024,9.9,"ANCHO_FOOD_CHALANDRI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/22/2024,2.42,"PENTELICIOUS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/20/2024,21.07,"OASA ETICKET POS, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+12/20/2024,21.07,"OASA ETICKET POS, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+12/20/2024,4.73,"ST KOUTIKAS &amp; SIA OE, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+12/20/2024,2.51,"MY MARKET 551 PENTELI, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/20/2024,35.95,"Wolt, Food & Drink, Sale",ty20240101_20241231_20250327,Wolt,Food,,chase
+12/19/2024,10.75,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/19/2024,2.11,"UBER *TRIP HELP.UBER.COM, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/18/2024,4.84,"EMMANOUIL PAPOUTSIS, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/18/2024,87.14,"ATTIKA POLIKATASTIMATA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/18/2024,5.37,"PENTELICIOUS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/17/2024,2.74,"EVEREST GOLDEN HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/17/2024,80.97,"ETAIREIA SYMVOLAIOGR, Professional Services, Sale",ty20240101_20241231_20250327,,,,chase
+12/16/2024,-4.9,"SP DEADAI, Shopping, Return",ty20240101_20241231_20250327,,,,chase
+12/16/2024,7.99,"GOOGLE *YouTubePremium, Shopping, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+12/16/2024,157.89,"BROOKS BROTHERS, Shopping, Sale",ty20240101_20241231_20250327,Brooks Brothers,Shopping (Consumer Goods),,chase
+12/15/2024,5.06,"PENTELICIOUS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/15/2024,8.32,"KOTSIS EE PENTELI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/15/2024,4.9,"SP DEADAI, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/15/2024,5.67,"MY MARKET 551 PENTELI, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/15/2024,31.86,"BURROS OE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+12/13/2024,-96.45,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/13/2024,38.0,"Vodafone Roaming Services, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+12/13/2024,38.53,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/13/2024,-228.95,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/13/2024,21.04,"MY MARKET 551 PENTELI, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/13/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+12/12/2024,78.35,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/12/2024,-152.62,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/12/2024,19.02,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+12/12/2024,3.72,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/11/2024,200.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+12/11/2024,37.78,"UBER   *EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+12/11/2024,55.54,"TARGET        00014316, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+12/10/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+12/10/2024,12.06,"AMAZON MKTPL*ZR4N16161, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/10/2024,6.97,"7-ELEVEN 10722, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+12/09/2024,12.72,"AMAZON MKTPL*ZR1D80CD1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/09/2024,20.09,"Caboose II LLC, Food & Drink, Sale",ty20240101_20241231_20250327,Caboose,,,chase
+12/09/2024,132.32,"TST*URBANO MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+12/09/2024,26.33,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+12/09/2024,18.4,"WHOLEFDS TYS 10049, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/08/2024,-12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Return",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+12/08/2024,159.46,"IC* WEGMANS VIA INSTAC, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/08/2024,40.26,"SHELL OIL 57543774202, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+12/08/2024,15.0,"Wikimedia, Gifts & Donations, Sale",ty20240101_20241231_20250327,Wikimedia,Charity,,chase
+12/08/2024,37.09,"AMAZON MKTPL*ZR8KZ4E10, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/08/2024,14.95,"TST* DISTRICT TACO - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+12/08/2024,179.14,"AMAZON MKTPL*ZR6492NY0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+12/08/2024,100.49,"TST*INCA SOCIAL - VIENNA, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+12/08/2024,206.43,"LENSRENTALS.COM, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+12/06/2024,6.57,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+12/06/2024,7.27,"TING* INV#MI-3715672, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+12/06/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+12/06/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+12/06/2024,25.97,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+12/05/2024,23.97,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+12/05/2024,19.44,"TST* DISTRICT TACO - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+12/04/2024,66.24,"SQ *CARDINAL TAILORING &amp;, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+12/03/2024,-4713.99,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+12/03/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+12/03/2024,5.99,"Amazon Music*ZL1BP0G30, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+12/02/2024,47.18,"SP FUSELENSES, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+12/02/2024,70.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+12/02/2024,9.25,"PUBLIX #1591, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+12/01/2024,28.98,"SHEETZ 2565   00025650, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+12/01/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+12/01/2024,33.11,"FOOD LION #1361, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+11/28/2024,171.71,"SP TRAVELPRO LUGGAGE, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+11/28/2024,15.6,"Wikimedia, Gifts & Donations, Sale",ty20240101_20241231_20250327,Wikimedia,Charity,,chase
+11/28/2024,13.38,"7-ELEVEN 10721, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+11/27/2024,24.82,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+11/27/2024,19.7,"TST*SURREAL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+11/27/2024,10.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+11/26/2024,168.35,"UPWORK * -756425862, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+11/26/2024,-19.03,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/25/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/25/2024,12.0,"713 BOWLERO TYSONS - ARCA, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,17.98,"BALDUCCI'S #3602, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,62.0,"SKRABEK, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,225.0,"Tilicare LLC, Automotive, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,34.05,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+11/24/2024,38.12,"EXXON SUN DUNN LORING, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,114.83,"PAN AM RESTAURANT, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,16.08,"SAFEWAY 2616, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+11/24/2024,51.45,"GOOGLE *FI xF78GJ, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+11/22/2024,-26.5,"TARGET        00014316, Shopping, Return",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+11/22/2024,19.03,"AMAZON MKTPL*5L6NJ9UO3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/21/2024,478.02,"AMAZON MKTPL*9N2SB3TV3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/21/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/21/2024,25.0,"Tilicare LLC, Automotive, Sale",ty20240101_20241231_20250327,,,,chase
+11/20/2024,15.56,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+11/20/2024,149.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+11/19/2024,110.25,"UPWORK * -754248788, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+11/19/2024,49.41,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+11/19/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/18/2024,33.79,"WEGMANS TYSONS CRNR #115, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+11/18/2024,81.12,"TST*LULUS WINE GARDEN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+11/18/2024,32.05,"DD *DOORDASH WALGREENS, Food & Drink, Sale",ty20240101_20241231_20250327,DoorDash,Food,louisa,chase
+11/17/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/17/2024,41.82,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+11/17/2024,76.35,"TARGET        00027904, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+11/17/2024,39.49,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+11/17/2024,-84.75,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/17/2024,51.92,"VA ABC STORE 346, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+11/17/2024,8.51,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+11/17/2024,-84.75,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/17/2024,95.69,"TST* SILVER DINER - TYSON, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+11/17/2024,6.57,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+11/17/2024,41.37,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+11/17/2024,12.55,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+11/15/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/14/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/14/2024,12.95,"EXPRESSVPN.COM, Professional Services, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+11/14/2024,18.25,"TPA CNBC, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+11/14/2024,32.0,"DEPARTMENT MOTOR VEHICLES, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+11/14/2024,31.79,"AMAZON MKTPL*7K1819Y53, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/14/2024,15.79,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+11/14/2024,35.69,"LOY*MEDSTARHEALTH, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+11/13/2024,34.05,"GRAND HYATT TAMPA, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+11/13/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+11/13/2024,213.0,"SPLTY 8886312106 HOTEL, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+11/13/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/12/2024,25.43,"WAWA 5334, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+11/12/2024,9.89,"TB BUCS LOCAL EATS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/12/2024,96.07,"Amazon.com*8J82725B3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+11/12/2024,16.0,"SQ *MOUNTAINEER COFFEE CO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/12/2024,36.81,"TB BUCS LOCAL EATS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+11/11/2024,13.62,"WAWA 5334, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+11/11/2024,166.88,"FSP*HACIENDA HOTEL FLORID, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+11/11/2024,189.28,"FSP*HACIENDA HOTEL FLORID, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+11/11/2024,22.8,"THE KANGAROO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/10/2024,55.44,"SQ *SIP NPR INC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/10/2024,30.0,"SQ *THE WONDER GARDENS, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+11/10/2024,14.89,"PANERA BREAD #601094 K, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/10/2024,23.62,"ABC FINE WINE/SPIRITS 099, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/08/2024,35.28,"COURTSIDE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/08/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+11/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+11/08/2024,56.74,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+11/07/2024,11.93,"10005 CAVA MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/07/2024,45.0,"FLOYD'S 99 MOSIAC, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+11/06/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/05/2024,9.5,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/05/2024,29.23,"Amazon.com*UF1QJ19S3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+11/05/2024,7.27,"TING* INV#MI-3608086, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+11/05/2024,8.0,"X CORP. PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+11/04/2024,51.13,"Amazon.com*PA60T9CQ3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+11/03/2024,-3899.54,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+11/03/2024,5.99,"Amazon Music*QE82Y7VH3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+11/03/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+11/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+11/03/2024,9.5,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+11/03/2024,84.75,"AMAZON MKTPL*IP7E42143, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+11/03/2024,10.8,"Amazon.com*T03LH9J43, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+11/03/2024,107.1,"TST*THE FALLS, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+11/03/2024,23.81,"Caboose II LLC, Food & Drink, Sale",ty20240101_20241231_20250327,Caboose,,,chase
+11/01/2024,95.0,"ANNUAL MEMBERSHIP FEE, Fees & Adjustments, Fee",ty20240101_20241231_20250327,,,,chase
+11/01/2024,48.28,"EXXON VIENNA MART, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+11/01/2024,16.88,"DD *CHITCHAATCAFE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+11/01/2024,14.0,"GATE HOUSE SUNOCO, Automotive, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+10/31/2024,136.24,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/31/2024,20.64,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/31/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+10/31/2024,84.75,"AMAZON MKTPL*DN6F933V3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+10/30/2024,11.2,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/29/2024,11.2,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/29/2024,30.0,"ONE MEDICAL, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+10/29/2024,110.25,"UPWORK * -747743096, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+10/28/2024,6.38,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+10/27/2024,11.2,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/27/2024,7.28,"AMAZON MKTPL*WC2JR75T3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+10/27/2024,31.79,"AMAZON MKTPL*6I87X6UB3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+10/25/2024,200.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+10/25/2024,22.22,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/25/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+10/24/2024,38.36,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+10/24/2024,20.85,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/23/2024,62.3,"GOOGLE *FI ZPTzw9, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+10/22/2024,61.25,"UPWORK * -745577659, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+10/22/2024,30.2,"AMAZON MKTPL*ZD3DE7K03, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+10/22/2024,16.91,"SHEETZ 0565   00005652, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+10/21/2024,200.0,"3 RIVERS RUNNING CO, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+10/21/2024,129.81,"WAL-MART #5847, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+10/21/2024,1.16,"WALMART.COM, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+10/21/2024,22.54,"SHEETZ 0565   00005652, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+10/21/2024,38.34,"HOVER, Professional Services, Sale",ty20240101_20241231_20250327,Hover,Office Supplies & Software,software,chase
+10/20/2024,54.15,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+10/20/2024,2.0,"CANTEEN VENDING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+10/20/2024,149.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+10/20/2024,68.99,"TST*LOST DOG CAFE - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+10/20/2024,18.97,"TST* DISTRICT TACO - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+10/17/2024,4.76,"7-ELEVEN 10721, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+10/17/2024,9.5,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/17/2024,27.26,"Amazon.com*I46B38H13, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+10/16/2024,323.68,"UNITED      0162428342704, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/16/2024,323.68,"UNITED      0162428342703, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/16/2024,323.68,"UNITED      0162428342702, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/16/2024,22.16,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/16/2024,12.36,"JERSEY MIKES 6049, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+10/16/2024,9.26,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/15/2024,6.57,"6049 ATL SOUTHERNNATMK, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+10/15/2024,183.48,"ATLANTA MARRIOTT CENTU, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/15/2024,10.5,"UPWORK * -743410024, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+10/14/2024,6.67,"STARBUCKS STORE 83765, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+10/14/2024,42.58,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+10/14/2024,11.88,"ATLANTA MARRIOTT CENTU, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+10/14/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+10/13/2024,153.48,"ATLANTA MARRIOTT CENTU, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/13/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+10/13/2024,78.0,"TST*57TH FIGHTER GROUP R, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+10/13/2024,66.05,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+10/13/2024,12.19,"MCDONALD'S F35978, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+10/13/2024,15.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/13/2024,24.11,"AMZ*ynjpa423m IAD Nonstop, Groceries, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+10/11/2024,6.78,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+10/11/2024,9.89,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/11/2024,65.52,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+10/10/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/09/2024,37.3,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+10/09/2024,12.9,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/08/2024,11.33,"ROAD RUNNER SPORTS-703, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+10/08/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+10/08/2024,451.71,"UNITED      0162426383497, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/08/2024,66.24,"UPWORK * -741271898, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+10/08/2024,29.99,"UNITED      0164439255318, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+10/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+10/07/2024,29.11,"UBER   *EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+10/07/2024,22.52,"SANTINI'S MCLEAN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+10/07/2024,40.0,"FLOYD'S 99 MOSIAC, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+10/07/2024,70.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+10/06/2024,21.24,"TARGET        00027904, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+10/06/2024,7.27,"TING* INV#MI-3498913, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+10/06/2024,148.68,"TST*PARC DE VILLE, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+10/06/2024,8.0,"X CORP. PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+10/06/2024,27.06,"TST* DACHA NAVY YARD, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+10/04/2024,11.9,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+10/03/2024,-2901.61,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+10/03/2024,5.99,"Amazon Music*J43DI63H3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+10/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+10/03/2024,26.03,"SUNOCO 0273964700, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+10/03/2024,-302.1,"NIKE.COM, Shopping, Return",ty20240101_20241231_20250327,,,,chase
+10/02/2024,18.84,"CVS/PHARMACY #11083, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+10/02/2024,17.07,"WAL-MART #1523, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+10/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+10/01/2024,-318.0,"ADIDAS US ONLINE STORE, Shopping, Return",ty20240101_20241231_20250327,,,,chase
+10/01/2024,25.62,"SHELL OIL 57543025803, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+10/01/2024,15.49,"UPWORK * -739069739, Professional Services, Sale",ty20240101_20241231_20250327,Upwork,Professional fees,labor,chase
+09/30/2024,19.6,"Amazon.com*J318D26F3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+09/30/2024,18.16,"STARBUCKS STORE 07762, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/30/2024,23.0,"AMTRAK .COM 2720654090613, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+09/30/2024,83.11,"OPEN ROAD - MERRIFIELD, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/30/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+09/30/2024,71.22,"TST*LOST DOG CAFE - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+09/29/2024,41.53,"AMAZON MKTPL*NO9BK0O93, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+09/29/2024,12.55,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/29/2024,15.64,"10005D CAVA MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/27/2024,14.01,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+09/27/2024,27.62,"SAFEWAY 2883, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+09/27/2024,11.53,"THE UPS STORE 3156, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+09/26/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+09/26/2024,10.59,"BARNES &amp; NOBLE #3314, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/25/2024,18.44,"10005 CAVA MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/25/2024,318.0,"ADIDAS US ONLINE STORE, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/25/2024,627.52,"NIKE.COM, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/24/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+09/24/2024,15.68,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/23/2024,20.48,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+09/23/2024,23.6,"UBER   *EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+09/23/2024,30.91,"GOOGLE *FI 5X3PLB, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+09/22/2024,12.34,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/22/2024,119.86,"TST* DACHA NAVY YARD, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+09/22/2024,125.06,"TST*PARC DE VILLE, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+09/22/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+09/22/2024,12.55,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/20/2024,15.59,"DISTRICTTACO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/20/2024,149.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+09/19/2024,6.99,"STARBUCKS STORE 00741, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/19/2024,6.36,"Amazon.com*SH6B002D3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+09/19/2024,16.87,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+09/18/2024,17.21,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/18/2024,11.65,"AMAZON MKTPL*QJ0PE2UD3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+09/18/2024,26.76,"UBER   *EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+09/18/2024,200.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+09/17/2024,10.9,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+09/17/2024,7.95,"COLPARK LOC 183, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+09/17/2024,5.29,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+09/17/2024,46.5,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+09/17/2024,17.0,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+09/17/2024,275.41,"LOY*MEDSTARHEALTH, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+09/16/2024,200.48,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+09/16/2024,32.9,"ENA IKE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/15/2024,11.02,"Wolt, Food & Drink, Sale",ty20240101_20241231_20250327,Wolt,Food,,chase
+09/15/2024,153.64,"ALPINO CHALANDRIOU KAI, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+09/15/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+09/15/2024,75.31,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+09/15/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+09/15/2024,6.0,"WASHINGTON DULLES AP C, Home, Sale",ty20240101_20241231_20250327,,,,chase
+09/13/2024,39.74,"Wolt, Food & Drink, Sale",ty20240101_20241231_20250327,Wolt,Food,,chase
+09/13/2024,9.39,"SPILIOTI ANTONIA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/13/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+09/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+09/11/2024,13.39,"EAM-EKDOTIRIO EISITIRION, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+09/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+09/11/2024,3.79,"SPILIOTI ANTONIA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/10/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+09/10/2024,26.77,"KASTELORIZO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/10/2024,20.74,"KLASSIKOI DROMOI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,13.65,"ARGYROPOULOU AND SIA OE, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,10.38,"ESTIATORIA EOLOU, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,15.64,"AIGAION HOTEL, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,22.19,"AIGAION HOTEL, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,21.64,"SPILIOTI ANTONIA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/09/2024,70.33,"DADA S, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/08/2024,28.06,"UBER *TRIP HELP.UBER.COM, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+09/08/2024,14.34,"ANAGNOSTOPOULOU NIMFODORA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/06/2024,2.47,"CASH ADVANCE INTEREST CHA, Fees & Adjustments, Fee",ty20240101_20241231_20250327,,,,chase
+09/06/2024,3.11,"ATTIKI ODOS SA, Travel, Sale",ty20240101_20241231_20250327,ATTIKI Odos,Travel and Transportation,,chase
+09/06/2024,7.09,"PENTELICIOUS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/06/2024,3.11,"ATTIKI ODOS SA, Travel, Sale",ty20240101_20241231_20250327,ATTIKI Odos,Travel and Transportation,,chase
+09/05/2024,8.0,"X CORP. PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+09/05/2024,9.52,"KOTSIS EE PENTELI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/04/2024,7.26,"TING* INV#MI-3391511, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+09/04/2024,144.26,"PALIATSOS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/03/2024,-4225.22,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+09/03/2024,19.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+09/03/2024,5.99,"Amazon Digit*RK38U4I61, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+09/03/2024,142.04,"IPPOPOTAMOS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/03/2024,-19.99,"ZWIFT  INC., Shopping, Return",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+09/03/2024,5.66,"SNFCC_NIARCHOS_PARKING, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+09/03/2024,4.44,"ANASTASIOS TSESMELIS, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+09/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/02/2024,13.65,"APOLLONION, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/02/2024,26.62,"MEGAFITNESS GR, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+09/02/2024,52.12,"MADEL FOOD, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+09/02/2024,7.77,"BUSHAJ ADEM, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+08/29/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+08/29/2024,320.35,"KALUA PARAGA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/29/2024,7.84,"SSP HELLAS PRET A MANG, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/29/2024,44.81,"AEGEAN_DCS_, Travel, Sale",ty20240101_20241231_20250327,Aegean,Travel and Transportation,,chase
+08/29/2024,14.1,"KOTSIS EE PENTELI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/28/2024,48.17,"UBER *TRIP HELP.UBER.COM, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+08/28/2024,29.63,"Wolt, Food & Drink, Sale",ty20240101_20241231_20250327,Wolt,Food,,chase
+08/28/2024,1.68,"DIMADAMAS OE TOBACCO SHOP, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/27/2024,7.28,"TERRYS GELATERIA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/27/2024,1.01,"GRAB AND GO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/27/2024,31.38,"OLYMPIC CATERING RODOU, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/27/2024,17.92,"ARTOPOIEIA KAMINAKI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/26/2024,21.84,"D RODOPOULOS AND CO LP, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/26/2024,66.76,"UBER   *TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+08/26/2024,26.32,"DESTINATION OF TASTE, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/26/2024,83.78,"CAMINAR, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/26/2024,57.98,"Amazon.com*R45QC3HE1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/26/2024,17.36,"ARTOPOIEIA KAMINAKI, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/26/2024,6.16,"TO MAGAZAKI, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/25/2024,586.48,"INTRA  HOSPITALITY S., Travel, Sale",ty20240101_20241231_20250327,,,,chase
+08/25/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/25/2024,169.55,"AMZN Mktp US*R44V24JX0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/23/2024,-37.46,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/23/2024,36.87,"SUDMALAINEN KAUPPA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/23/2024,80.17,"GOOGLE *FI NRzzLL, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+08/20/2024,4.41,"LAMDA DOMI S A, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+08/20/2024,149.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+08/18/2024,236.0,"RUNNER STORE AND MORE, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/18/2024,-299.0,"TOPAZ LABS SOFTWARE, Shopping, Return",ty20240101_20241231_20250327,Topaz Labs,Office Supplies & Software,software,chase
+08/18/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+08/16/2024,-54.51,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+08/15/2024,16.39,"EKO, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+08/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+08/14/2024,40.28,"GALAXIAS_MENIDI, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+08/14/2024,1.15,"GO 7 MARKET, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/14/2024,38.0,"Vodafone Roaming Services, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+08/13/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+08/13/2024,10.49,"A1087 GRIGORIS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/11/2024,-34.99,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/11/2024,64.85,"AMAZON MKTPL*RM37Y4Z11, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/11/2024,30.72,"Amazon.com*RM2872TW0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+08/11/2024,53.35,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+08/11/2024,33.9,"AMAZON MKTPL*RM6R10EV0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/11/2024,10.67,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+08/11/2024,37.1,"EVERYDAY 57387001, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/11/2024,16.21,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+08/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+08/09/2024,22.96,"Amazon.com*RM0D62OT0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/09/2024,33.98,"OPEN ROAD - MERRIFIELD, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/09/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/09/2024,200.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+08/09/2024,27.76,"Amazon.com*RM9F06JS2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/08/2024,-69.95,"Amazon.com, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+08/08/2024,20.34,"VIRGINIA DEPARTMENT OF TA, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+08/08/2024,3.95,"VA DEPT OF TAXATION FEE, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+08/08/2024,-104.94,"AMAZON MKTPLACE PMTS, Shopping, Return",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+08/07/2024,39.19,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+08/07/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/06/2024,227.34,"AMAZON MKTPL*RF3QI2VA1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/06/2024,7.26,"TING* INV#MI-3281362, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+08/06/2024,69.95,"Amazon.com*RF7ZE66L0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/06/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/05/2024,91.69,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+08/05/2024,14.0,"GATE HOUSE SUNOCO, Automotive, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+08/05/2024,22.68,"CASUAL PINT DUNN LORING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/05/2024,10.0,"TRANSACTION FEE, Fees & Adjustments, Fee",ty20240101_20241231_20250327,,,,chase
+08/05/2024,100.0,"CAESARS SPORTSBOOK, Entertainment, Cash Advance",ty20240101_20241231_20250327,,,,chase
+08/05/2024,53.66,"SUNOCO 8000558102, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+08/05/2024,8.0,"X CORP. PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+08/05/2024,27.9,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+08/04/2024,19.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+08/04/2024,64.71,"Uniqlo USA LLC UNIQLO_US-, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/04/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/04/2024,27.76,"Amazon.com*RF1N52XP2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+08/04/2024,25.69,"NORDSTROM #0600, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+08/04/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+08/04/2024,18.0,"AMAZON MKTPL*RF2YC9TA0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+08/02/2024,-3931.87,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+08/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+08/02/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/01/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+08/01/2024,6.35,"AMAZON MKTPL*RV4WB3BN1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+07/31/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/31/2024,200.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+07/30/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/29/2024,43.32,"SUNOCO 0273964700, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/29/2024,6.92,"Subway 49201, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/29/2024,4.23,"SUNOCO 0273964700, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/29/2024,97.0,"FOUNDATIONS PHYSICAL T, Health & Wellness, Sale",ty20240101_20241231_20250327,Foundations Physical Therapy,Health & Wellness,,chase
+07/28/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+07/26/2024,61.87,"SUNOCO 0004480006, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/26/2024,19.46,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/26/2024,299.0,"TOPAZ LABS SOFTWARE, Shopping, Sale",ty20240101_20241231_20250327,Topaz Labs,Office Supplies & Software,software,chase
+07/25/2024,10.5,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/25/2024,33.78,"JIMMY JOHNS - 1961 - E, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/24/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+07/24/2024,1124.7,"MMG MEDSTAR PHYSICIANS, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+07/24/2024,7.0,"MGUH PARKING, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+07/23/2024,79.49,"AMZN Mktp US*RJ93H3E71, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+07/23/2024,28.5,"SHEETZ 0320   00003202, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+07/23/2024,50.09,"GOOGLE *FI LR85N7, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+07/23/2024,45.78,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+07/23/2024,10.47,"TARGET        00014316, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+07/22/2024,33.99,"BACK OF THE DRAGON, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/21/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+07/21/2024,25.52,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/21/2024,47.16,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/21/2024,5.23,"THE CAVE, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+07/21/2024,47.59,"THE CAVE, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+07/21/2024,7.9,"MARATHON PETRO101840, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+07/21/2024,56.23,"7-ELEVEN 15112, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+07/21/2024,149.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+07/19/2024,19.49,"AMAZON MKTPL*RS2941BC2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+07/19/2024,24.33,"THRIFT BOOKS GLOBAL  LLC, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+07/19/2024,18.06,"SQ *SPICE 6 VA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/19/2024,17.35,"AMAZON MKTPL*RS78Z5UN0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+07/18/2024,9.5,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/17/2024,0.99,"Kindle Svcs*RS20H2PR0, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+07/17/2024,102.8,"SWEETWATER TAVERN - ME, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/17/2024,55.29,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/17/2024,33.36,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/16/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+07/14/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+07/14/2024,10.49,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/12/2024,11.56,"SAFEWAY 2883, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+07/12/2024,36.4,"IN *THE FADE CO, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+07/12/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+07/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+07/11/2024,26.33,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/10/2024,15.9,"DD *FALAFELINC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/09/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+07/09/2024,7.26,"TING* INV#MI-3165533, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+07/09/2024,12.0,"GATE HOUSE SUNOCO, Automotive, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/09/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/09/2024,30.0,"ONE MEDICAL, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+07/09/2024,13.98,"TST* RASA - MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/08/2024,57.01,"Amazon.com*R76E55D72, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+07/08/2024,318.0,"BLOOMINGDALES #63, Shopping, Sale",ty20240101_20241231_20250327,Bloomingdales,Shopping (Consumer Goods),,chase
+07/08/2024,156.24,"TST* KIRBY CLUB, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,28.6,"TST* BRONSON BIER HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,22.1,"TST* BRONSON BIER HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,30.0,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/07/2024,10.22,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+07/07/2024,45.81,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+07/07/2024,13.32,"Amazon.com*R70LI0VA2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+07/07/2024,22.1,"TST* BRONSON BIER HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,6.5,"TST* BRONSON BIER HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,22.1,"TST* BRONSON BIER HALL, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+07/07/2024,14.77,"JERSEY MIKES 6049, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+07/05/2024,8.0,"X CORP. PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+07/05/2024,53.46,"THE HOME DEPOT 4605, Home, Sale",ty20240101_20241231_20250327,,,,chase
+07/04/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/03/2024,-4342.23,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+07/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+07/03/2024,19.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+07/03/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/02/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+07/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+07/02/2024,112.36,"THE HOME DEPOT 4605, Home, Sale",ty20240101_20241231_20250327,,,,chase
+07/02/2024,74.69,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+07/01/2024,37.07,"BARNES &amp; NOBLE #3314, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+07/01/2024,-48.17,"Amazon.com, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+06/30/2024,159.57,"TST* KIRBY CLUB, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/30/2024,13.36,"CHIPOTLE 0983, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/30/2024,34.97,"GoTab Inc., Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/28/2024,48.03,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/28/2024,22.58,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/28/2024,13.58,"SANTINI'S MCLEAN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/27/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+06/27/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+06/26/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+06/25/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+06/25/2024,22.56,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+06/25/2024,120.7,"THE HOME DEPOT 4605, Home, Sale",ty20240101_20241231_20250327,,,,chase
+06/24/2024,41.02,"ROYAL FARMS #115, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+06/24/2024,248.3,"RED BEAR BREWING COMPAN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/24/2024,52.61,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/24/2024,3.0,"Blink, Shopping, Sale",ty20240101_20241231_20250327,Amazon,Shopping (Consumer Goods),,chase
+06/24/2024,15.25,"ROYAL FARMS #115, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+06/24/2024,4.19,"SUNOCO 0113689400, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+06/23/2024,20.42,"GOOGLE *FI NzK424, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+06/23/2024,637.19,"AEGEAN_WEB_, Travel, Sale",ty20240101_20241231_20250327,Aegean,Travel and Transportation,,chase
+06/23/2024,96.6,"Preply Inc., Education, Sale",ty20240101_20241231_20250327,Preply,,,chase
+06/23/2024,-80.0,"WWW.TRAININGPEAKS.COM, Shopping, Return",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+06/23/2024,185.49,"TST* THE SHANTY, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/23/2024,43.0,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+06/21/2024,24.31,"A1 ON THE RUN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/20/2024,162.25,"TST* CAPE CHARLES BREWING, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/20/2024,43.76,"TST* AJS BAR &amp; GRILLDT, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/20/2024,51.39,"TST* CAPE CHARLES BREWING, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/20/2024,229.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+06/20/2024,31.63,"TST* CAPE CHARLES BREWING, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/19/2024,44.27,"SQ *EDIBLE PICASSO, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+06/18/2024,4.6,"CANTEEN VENDING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/18/2024,4.6,"CANTEEN VENDING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/18/2024,19.14,"EXXON LIGHTFOOT PIT ST, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+06/18/2024,64.56,"FOOD LION #2508, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+06/17/2024,16.0,"GATE HOUSE SUNOCO, Automotive, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+06/17/2024,108.75,"TST* RUTHIES ALL DAY, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/17/2024,46.57,"SHELL OIL 57543774202, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+06/17/2024,85.01,"THE ITALIAN STORE INC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/16/2024,27.85,"Amazon.com*Z279E8MU3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/16/2024,17.79,"Amazon.com*OB6W462X3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/16/2024,2.98,"GOOGLE *Google Photos, Shopping, Sale",ty20240101_20241231_20250327,Google,,,chase
+06/16/2024,12.99,"GOOGLE *YouTube Videos, Entertainment, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+06/16/2024,15.46,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+06/16/2024,34.93,"Amazon.com*EQ5J70E13, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+06/14/2024,18.88,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/13/2024,28.09,"Afterpay, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+06/13/2024,77.15,"Amazon.com*2Y4MK7423, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/13/2024,105.79,"AMZN Mktp US*MM1UX6Z83, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/13/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+06/12/2024,4.5,"AFTERPAY, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+06/12/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+06/11/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+06/11/2024,20.0,"OPENAI *CHATGPT SUBSCR, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+06/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+06/11/2024,26.83,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/10/2024,99.84,"TST* KIRBY CLUB, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/09/2024,24.78,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+06/09/2024,37.9,"SP LIFEBOOST COFFEE, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+06/09/2024,10.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+06/09/2024,16.6,"OLO 110 honeygrow Res, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/09/2024,10.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+06/09/2024,53.74,"TST* LOST DOG CAFE - DUNN, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/07/2024,7.0,"AMAZON PRIME*DZ5YR7GB3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/07/2024,25.15,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+06/07/2024,13.57,"CHIPOTLE 0285, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/06/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+06/06/2024,30.0,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+06/05/2024,21.17,"AMZN Mktp US*RP8JY18A1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/05/2024,7.25,"TING* INV#MI-3048229, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+06/04/2024,18.01,"AMZN Mktp US*7C1EE4JH3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/04/2024,13.76,"AMZN Mktp US*359XO9NZ3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/03/2024,-11070.45,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+06/03/2024,18.83,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+06/03/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+06/03/2024,80.86,"MIKES AMERICAN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+06/02/2024,18.06,"Amazon.com*GA9EJ8W23, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/02/2024,133.56,"TST* PARC DE VILLE, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+06/02/2024,10.6,"SQ *MOSAIC FC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+06/02/2024,30.29,"AMZN Mktp US*6P00X27B3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+06/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+06/02/2024,69.99,"STEAMGAMES.COM 4259522985, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+05/31/2024,42.0,"STATE HIGHWAY ADMIN, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+05/30/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/30/2024,15.79,"Amazon.com*ZO53T5BR3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/29/2024,16.95,"AMZN Mktp US*989UJ9YX3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/29/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/29/2024,14.0,"GATE HOUSE SUNOCO, Automotive, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+05/28/2024,16.0,"COLPARK LOC 195, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/27/2024,22.0,"LAZ PARKING M07130, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/27/2024,1.37,"PARKMOBILE, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/27/2024,33.02,"WHOLEFDS SCP #10563, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+05/26/2024,37.8,"IN *THE FADE CO, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+05/26/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+05/26/2024,77.59,"TST* INCA SOCIAL - VIENNA, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+05/26/2024,24.99,"GOOGLE *YouTube Videos, Entertainment, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+05/26/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/26/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+05/24/2024,80.43,"2024-Spring-Georget-CT, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+05/24/2024,49.04,"AMERICAN MAJESTIC EAGLE F, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+05/24/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/23/2024,68.13,"GOOGLE *FI Q7LQ9W, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+05/23/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/23/2024,92.54,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/22/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/21/2024,35.0,"SHERATON INNER HARBOR PAR, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/21/2024,29.17,"2LEVY@ORIOLESPARKMG, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+05/21/2024,70.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+05/21/2024,10.63,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/20/2024,229.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+05/19/2024,7.94,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/19/2024,183.96,"TST* MATCHBOX MERRIFIELD, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+05/19/2024,14.46,"STARBUCKS STORE 07578, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+05/16/2024,28.09,"Afterpay, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+05/16/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/16/2024,76.36,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/15/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/15/2024,5.29,"AMZN Mktp US*MD1U61YO3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/15/2024,4.5,"AFTERPAY, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+05/15/2024,26.82,"Amazon.com*AQ3464WY3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/14/2024,143.31,"Bonobos, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+05/14/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+05/13/2024,44.14,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/13/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+05/13/2024,55.81,"EXXON FALLS CHURCH GAL, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+05/12/2024,11.9,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/12/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+05/12/2024,20.0,"CHATGPT SUBSCRIPTION, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+05/12/2024,72.43,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/10/2024,8.0,"UA INFLT    0164299231983, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/10/2024,43.91,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/10/2024,776.52,"HILTON HOTELS, Travel, Sale",ty20240101_20241231_20250327,Hilton,Travel and Transportation,,chase
+05/09/2024,43.16,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/09/2024,10.88,"F&amp;B NRG CENTER CONCESS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+05/09/2024,69.99,"UNITED      0164298805242, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/09/2024,20.0,"E Z PASS VA WEB, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+05/08/2024,51.45,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/08/2024,7.71,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/08/2024,30.62,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/07/2024,831.26,"AEGEAN_WEB_, Travel, Sale",ty20240101_20241231_20250327,Aegean,Travel and Transportation,,chase
+05/07/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+05/07/2024,64.42,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+05/06/2024,44.9,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+05/06/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+05/06/2024,158.14,"RED BEAR BREWING COMPAN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+05/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+05/05/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/05/2024,7.25,"TING* INV#MI-2934700, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+05/05/2024,15.85,"AMZN Mktp US*DC6XH3KW3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/05/2024,35.6,"AMZN Mktp US*VH9RT8SS3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+05/03/2024,-4102.33,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+05/03/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+05/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+05/02/2024,89.99,"UNITED      0164296930256, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+05/02/2024,102.0,"UNITED      0164296930187, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/02/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/02/2024,51.36,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+05/02/2024,30.0,"ONEMED-FAIRFAX-MOSAICDIST, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+05/02/2024,685.8,"UNITED      0162384655868, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+05/01/2024,9.61,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+05/01/2024,37.05,"AMZN Mktp US*1M4IU8NK3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/30/2024,13.64,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/30/2024,14.0,"GATEHOUSE PLAZA SERVICES, Automotive, Sale",ty20240101_20241231_20250327,,,,chase
+04/30/2024,191.66,"REI #152 MCLEAN, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+04/28/2024,6.94,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/28/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+04/28/2024,83.82,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/28/2024,2576.68,"AIRBNB  HMRMDY3CC2, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/28/2024,54.0,"Roosters Mens Grooming, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+04/28/2024,1424.5,"UNITED      0162383699050, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/28/2024,1424.5,"UNITED      0162383699047, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/28/2024,1424.5,"UNITED      0162383699046, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/26/2024,22.26,"SQ *SPICE 6 VA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/25/2024,12.17,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/25/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+04/24/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+04/24/2024,41.99,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/24/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/23/2024,83.33,"TST* NORTHSIDE SOCIAL - C, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+04/23/2024,50.94,"GOOGLE *FI GG3H6x, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+04/22/2024,26.39,"Uniqlo USA LLC, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+04/22/2024,0.45,"PARKMOBILE, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/22/2024,12.61,"SHILLA BAKERY &amp; CAFE TS, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/22/2024,56.24,"SHEETZ 0565   00005652, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+04/21/2024,229.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+04/19/2024,46.78,"SHELL OIL 23630220074, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+04/18/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/18/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+04/18/2024,21.01,"TST* MELTED DREAMS CAFE, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+04/18/2024,3.36,"GOOGLE *Google Photos, Shopping, Sale",ty20240101_20241231_20250327,Google,,,chase
+04/18/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+04/17/2024,10.72,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/17/2024,74.58,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/16/2024,17.99,"AMZN Mktp US*6O8YD5I93, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/15/2024,159.8,"TST* IRELANDS FOUR COURT, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+04/15/2024,15.35,"WHOLEFDS TYS 10049, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+04/15/2024,54.02,"VA ABC STORE 346, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+04/14/2024,34.98,"AMZN Mktp US*HV2LN4PR3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/14/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+04/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+04/14/2024,21.45,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+04/14/2024,10.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/14/2024,39.67,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+04/14/2024,27.55,"AMZN Mktp US*O97TF8MF3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/14/2024,12.72,"TAQUERIA CANCUN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/12/2024,79.99,"StravaCOM, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+04/12/2024,78.48,"AMZN Mktp US*HG5HM4TJ3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/12/2024,15.64,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/12/2024,30.0,"HARRIS TEETER #308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/11/2024,12.78,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/11/2024,27.55,"AMZN Mktp US*R925Y3XP3, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/11/2024,28.93,"Amazon.com*LP81S9P63, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+04/11/2024,20.0,"CHATGPT SUBSCRIPTION, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+04/10/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/09/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+04/08/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+04/08/2024,44.27,"Caboose II LLC, Food & Drink, Sale",ty20240101_20241231_20250327,Caboose,,,chase
+04/08/2024,48.19,"SQ *BLUE WING FROG  LLC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/08/2024,41.3,"AFTERPAY, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+04/07/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/07/2024,541.19,"THE LOGAN PHILADELPHIA, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+04/07/2024,-382.67,"Amazon.com, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+04/07/2024,15.85,"SQ *SPICE 6 VA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/05/2024,32.24,"THE LOGAN PHILA FB, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+04/04/2024,49.49,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+04/04/2024,18.02,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+04/04/2024,7.25,"TING* INV#MI-2820159, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+04/04/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+04/03/2024,-3639.3,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+04/03/2024,21.94,"LULULEMONCOM*, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+04/03/2024,1.03,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+04/03/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+04/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+04/02/2024,12.2,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+04/02/2024,40.99,"AMZN Mktp US*RA1VR6DJ1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+04/02/2024,10.74,"JERSEY MIKES 6049, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/02/2024,16.86,"PASTRY XPO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+04/01/2024,148.35,"AMZN Mktp US*RA3580HL1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/31/2024,199.0,"ONE MEDICAL, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+03/31/2024,22.12,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/31/2024,68.87,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/31/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+03/29/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+03/28/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/27/2024,12.53,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/26/2024,28.3,"TARGET        00024786, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+03/26/2024,18.17,"HOVER, Professional Services, Sale",ty20240101_20241231_20250327,Hover,Office Supplies & Software,software,chase
+03/26/2024,56.37,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+03/25/2024,19.59,"Afterpay, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+03/25/2024,12.07,"Amazon.com*RA4G99L72, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/25/2024,13.06,"WAWA 6008, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+03/25/2024,15.35,"Store, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/25/2024,35.06,"THE HAMILTON, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/25/2024,15.15,"Amazon.com*RA47H8BP0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/24/2024,13.36,"CHIPOTLE 0983, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/24/2024,2.02,"GOOGLE *FI 7NX5RJ, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+03/24/2024,54.0,"Roosters Mens Grooming, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+03/24/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+03/24/2024,17.43,"SQ *SPICE 6 VA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/22/2024,12.4,"AMZN Mktp US*RA8BN1N80, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/22/2024,20.94,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/22/2024,7.3,"AMZN Mktp US*RH08J3QO2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/22/2024,152.98,"TST* SHELLYS BACK ROOM, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+03/22/2024,44.77,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+03/22/2024,10.0,"METRO 001-METRO CENTER W, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/22/2024,10.96,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/20/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+03/20/2024,229.0,"WWW.TRAININGPEAKS.COM, Shopping, Sale",ty20240101_20241231_20250327,Training Peaks,Health & Wellness,,chase
+03/20/2024,23.24,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/19/2024,45.07,"Amazon.com*RH4UC24Z2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/18/2024,-50.0,"SONESTA SIMPLY SUITES, Travel, Return",ty20240101_20241231_20250327,,,,chase
+03/18/2024,20.29,"BP#9759267CAPL VA0213, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+03/18/2024,26.51,"BP#9759267CAPL VA0213, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+03/17/2024,47.16,"WAL-MART #5847, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+03/17/2024,38.83,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+03/17/2024,246.92,"SONESTA SIMPLY SUITES, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/17/2024,57.32,"SQ *SELF, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/15/2024,45.34,"HOVER, Professional Services, Sale",ty20240101_20241231_20250327,Hover,Office Supplies & Software,software,chase
+03/14/2024,43.47,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/14/2024,18.01,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/14/2024,76.17,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+03/14/2024,7.49,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+03/14/2024,15.0,"GUMRD.COM* APRIL DUNFO, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+03/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+03/14/2024,49.97,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+03/14/2024,249.0,"UNITED      0164283828575, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/14/2024,-34.0,"UNITED      0164282526328, Travel, Return",ty20240101_20241231_20250327,,,,chase
+03/13/2024,10.83,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/13/2024,8.0,"GOOGLE *Google Nest, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+03/12/2024,45.57,"Amazon.com*R61FB5LW2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/12/2024,20.47,"NANDO'S PERI PERI #031, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/11/2024,2.21,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+03/11/2024,20.0,"CHATGPT SUBSCRIPTION, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+03/11/2024,-232.13,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+03/11/2024,475.94,"GOOGLE *Google Fi, Shopping, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+03/10/2024,89.0,"UNITED      0164282526329, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/10/2024,15.0,"STARBUCKS 800-782-7282, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+03/10/2024,84.99,"WWW.F1.COM, Entertainment, Sale",ty20240101_20241231_20250327,,,,chase
+03/10/2024,34.0,"UNITED      0164282526328, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/10/2024,668.2,"UNITED      0162370904515, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/10/2024,13.62,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/10/2024,38.42,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/08/2024,36.93,"AMZN Mktp US*RN7YG3MC2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/08/2024,19.07,"AMZN Mktp US*RN88S0XJ2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+03/08/2024,8.04,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/08/2024,63.7,"SUNOCO 0311437803, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+03/08/2024,10.71,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/07/2024,6.03,"OPENAI, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+03/06/2024,9.13,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/05/2024,52.99,"FOOT LOCKER - 25019, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+03/05/2024,10.48,"OPENAI, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+03/05/2024,9.37,"STARBUCKS STORE 11208, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+03/05/2024,77.23,"TING* INV#MI-2704471, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+03/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+03/04/2024,40.02,"AMZN Mktp US*RZ40E0DS2, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+03/04/2024,33.04,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/03/2024,-4829.0,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+03/03/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,1.0,"SQ *ST KATHERINE HELLENIC, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,7.78,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+03/03/2024,6.18,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+03/03/2024,48.0,"SQ *ST KATHERINE HELLENIC, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,35.99,"WALGREENS #15444, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,94.27,"SAFEWAY 2883, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,15.0,"COLPARK LOC 372, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+03/03/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+03/03/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+03/03/2024,9.13,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+03/01/2024,18.59,"SQ *SPICE 6 VA, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+03/01/2024,11.55,"JERSEY MIKES 6049, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+02/29/2024,15.83,"Klarna*instacart, Shopping, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+02/29/2024,20.54,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/29/2024,14.0,"GATEHOUSE PLAZA SERVICES, Automotive, Sale",ty20240101_20241231_20250327,,,,chase
+02/29/2024,19.31,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/28/2024,-380.54,"Amazon.com, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+02/28/2024,17.87,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/27/2024,9.37,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+02/26/2024,26.19,"On Sportswear, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/26/2024,19.59,"Afterpay, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+02/26/2024,16.68,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/26/2024,37.33,"TST* EASY COMPANY - NEW, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+02/26/2024,407.15,"AMZN Mktp US*RZ6GQ3PZ0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/26/2024,140.92,"TST* TIKI TNT, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+02/25/2024,25.0,"SQ *JOHN ALABASTER WATCH, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/25/2024,54.0,"Roosters Mens Grooming, Health & Wellness, Sale",ty20240101_20241231_20250327,,,,chase
+02/25/2024,19.99,"GOOGLE *YouTube Videos, Entertainment, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+02/25/2024,1000.0,"NEW HOPE HOUSING, Gifts & Donations, Sale",ty20240101_20241231_20250327,,,,chase
+02/25/2024,28.02,"EXXON VIENNA MART, Gas, Sale",ty20240101_20241231_20250327,,,,chase
+02/25/2024,23.29,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/25/2024,72.81,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+02/25/2024,27.26,"TST* TEDS BULLETIN MERRI, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+02/25/2024,16.78,"ANKY, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+02/23/2024,13.77,"BALDUCCI'S #3602, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+02/23/2024,-38.94,"GOOGLE *Google Fi, Shopping, Return",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+02/23/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+02/23/2024,55.43,"GOOGLE *FI CBXTzK, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+02/22/2024,396.44,"Amazon.com*RW2I087X0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/20/2024,22.25,"AMZN Mktp US*RW01L8HY0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/20/2024,38.85,"SUNOCO 0854661600, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+02/19/2024,42.92,"AMZN Mktp US*RI54J6JK1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/19/2024,54.19,"Caboose II LLC, Food & Drink, Sale",ty20240101_20241231_20250327,Caboose,,,chase
+02/19/2024,75.25,"TARGET        00027904, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+02/19/2024,69.3,"CASUAL PINT DUNN LORING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+02/18/2024,17.64,"CASUAL PINT DUNN LORING, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+02/18/2024,11.44,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/16/2024,14.83,"AMZN Mktp US*RI8MU4UY0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/15/2024,5.24,"7-ELEVEN 15843, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+02/15/2024,30.0,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/15/2024,71.6,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/15/2024,15.83,"Klarna*instacart, Shopping, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+02/14/2024,14.99,"Kindle Svcs*RI49X2JL2, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+02/13/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+02/13/2024,47.65,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+02/12/2024,38.79,"UBER   EATS, Food & Drink, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+02/11/2024,4.02,"SUNOCO 8000046102, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+02/11/2024,50.99,"SUNOCO 8000046102, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+02/11/2024,13.24,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/11/2024,20.0,"CHATGPT SUBSCRIPTION, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+02/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+02/09/2024,9.26,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+02/09/2024,6.51,"7-ELEVEN 10734, Gas, Sale",ty20240101_20241231_20250327,7-Eleven,Gas,,chase
+02/08/2024,7.83,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+02/08/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+02/07/2024,10.6,"LULULEMONCOM*, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/07/2024,37.38,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+02/06/2024,16.95,"AMZN Mktp US*R22II7QJ1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/06/2024,12.41,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+02/05/2024,235.8,"TST* IRELANDS FOUR COURT, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+02/05/2024,42.72,"DEPARTMENT MOTOR VEHICLES, Bills & Utilities, Sale",ty20240101_20241231_20250327,,,,chase
+02/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+02/05/2024,38.94,"GOOGLE *Google Fi, Shopping, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+02/05/2024,41.91,"TING* INV#MI-2587811, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+02/05/2024,31.27,"TARGET        00027904, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+02/04/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+02/04/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+02/04/2024,46.0,"SP BARK AND JACK, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/04/2024,38.18,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+02/04/2024,4.7,"PARKMOBILE, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+02/04/2024,149.36,"TST* THE FALLS, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+02/02/2024,-3006.98,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+02/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+02/02/2024,10.82,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+02/01/2024,18.77,"Amazon.com*R05S84RZ1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+02/01/2024,14.0,"GATEHOUSE PLAZA SERVICES, Automotive, Sale",ty20240101_20241231_20250327,,,,chase
+02/01/2024,20.0,"HUCKLEBERRY LABS, Professional Services, Sale",ty20240101_20241231_20250327,,,,chase
+02/01/2024,25.43,"AMZN Mktp US*R008K6R21, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/31/2024,43.19,"SUNOCO 0311437803, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+01/31/2024,15.83,"KLARNA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+01/30/2024,45.38,"Amazon.com*R28YW6EL0, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/30/2024,15.9,"Afterpay, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+01/29/2024,45.4,"JAKES TAVERN, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/28/2024,230.72,"TST* AMBAR - SHAW, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+01/28/2024,7.78,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+01/28/2024,21.71,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/28/2024,7.0,"Amazon Tips*R00WS4J61, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/26/2024,123.92,"Amazon.com*R025L14L1, Groceries, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/25/2024,35.0,"EZPASSVA AUTO REPLENISH, Travel, Sale",ty20240101_20241231_20250327,EZPASSVA,Travel and Transportation,personal,chase
+01/25/2024,12.41,"TROPICAL SMOOTHIE CAFE VA, Food & Drink, Sale",ty20240101_20241231_20250327,Tropical Smoothie,Food,,chase
+01/23/2024,55.16,"GOOGLE *FI GzxRZQ, Bills & Utilities, Sale",ty20240101_20241231_20250327,Google,Cell Phone,phone,chase
+01/22/2024,62.6,"AFTERPAY, Shopping, Sale",ty20240101_20241231_20250327,Afterpay,Shopping (Consumer Goods),louisa,chase
+01/22/2024,9.99,"IC* INSTACART*SUBSCRIP, Groceries, Sale",ty20240101_20241231_20250327,Instacart,Food,louisa,chase
+01/22/2024,12.9,"STARBUCKS STORE 00706, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+01/22/2024,71.2,"TARGET        00027904, Shopping, Sale",ty20240101_20241231_20250327,Target,Shopping (Consumer Goods),personal,chase
+01/21/2024,31.24,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/21/2024,61.97,"AMZN Mktp US*R85019N01, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/21/2024,-55.0,"UNITED      0164257114373, Travel, Return",ty20240101_20241231_20250327,,,,chase
+01/21/2024,340.0,"SQ *JOHN ALABASTER WATCH, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+01/21/2024,72.95,"TFK-FAIRFAX VA - IN-S, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/21/2024,44.96,"SUNOCO 0013766106, Gas, Sale",ty20240101_20241231_20250327,Sunoco,Gas,,chase
+01/19/2024,30.0,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/19/2024,6.89,"IAH CS CIBO EXP N BRID, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+01/19/2024,118.86,"THE MORAN AT CITYCENTRE, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/19/2024,583.75,"THE MORAN AT CITYCENTRE, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/19/2024,9.04,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/18/2024,15.82,"KLARNA, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+01/18/2024,70.74,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/18/2024,74.05,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/18/2024,6.21,"IAH CS CIBO EXP S BRID, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+01/18/2024,-115.54,"Amazon.com, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+01/17/2024,10.35,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/17/2024,51.79,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/17/2024,18.0,"SQ *CREWS IAD LLC, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/17/2024,104.7,"SQ *ANDY BEST CAB 2388, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/16/2024,10.13,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/16/2024,147.54,"OPEN ROAD, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/15/2024,67.41,"TST* THE MACMILLAN WHISKY, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+01/15/2024,45.0,"FLOYD'S 99 MOSIAC, Personal, Sale",ty20240101_20241231_20250327,,,,chase
+01/14/2024,8.0,"GOOGLE *Google Nest, Shopping, Sale",ty20240101_20241231_20250327,Google,,monthly,chase
+01/14/2024,40.39,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/14/2024,12.95,"ExpressVPN, Bills & Utilities, Sale",ty20240101_20241231_20250327,ExpressVPN,Office Supplies & Software,software,chase
+01/14/2024,3.18,"GIANT 0233, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+01/14/2024,11.13,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/14/2024,24.99,"GOOGLE *YouTube Videos, Entertainment, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+01/14/2024,48.5,"Klarna, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+01/14/2024,20.46,"GIANT 0233, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+01/12/2024,53.41,"SP SWIRL &amp; SIP, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/12/2024,60.39,"AMZN Mktp US*TK2SZ0YE1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/12/2024,10.0,"SMARTRIP WASHINGTON DC, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/12/2024,16.13,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
+01/12/2024,12.13,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/11/2024,-165.87,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+01/11/2024,-36.02,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+01/11/2024,20.0,"CHATGPT SUBSCRIPTION, Shopping, Sale",ty20240101_20241231_20250327,OpenAI,Office Supplies & Software,software,chase
+01/11/2024,11.99,"PARAMOUNT+, Bills & Utilities, Sale",ty20240101_20241231_20250327,Paramount,Entertainment,monthly,chase
+01/11/2024,-88.49,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+01/11/2024,-103.33,"AMZN Mktp US, Shopping, Return",ty20240101_20241231_20250327,Amazon,,,chase
+01/10/2024,10.59,"AMZN Mktp US*TK96I29S1, Shopping, Sale",ty20240101_20241231_20250327,Amazon,,,chase
+01/10/2024,9.22,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/09/2024,5.54,"GIANT 0231, Groceries, Sale",ty20240101_20241231_20250327,,,,chase
+01/09/2024,84.99,"VERIZON*RECURRING PAY, Bills & Utilities, Sale",ty20240101_20241231_20250327,Verizon,,,chase
+01/08/2024,15.83,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/07/2024,8.0,"UA INFLT    0164266337310, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/07/2024,96.6,"PREPLY INC., Shopping, Sale",ty20240101_20241231_20250327,Preply,,,chase
+01/07/2024,403.2,"TST* ALTA STRADA- MOSAIC, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+01/07/2024,34.86,"HARRIS TEETER 308, Groceries, Sale",ty20240101_20241231_20250327,Harris Teeter,Food,,chase
+01/07/2024,578.19,"UNITED      0162353690095, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/07/2024,1.99,"GOOGLE *YouTube Videos, Shopping, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+01/07/2024,11.49,"STARBUCKS STORE 22728, Food & Drink, Sale",ty20240101_20241231_20250327,Starbucks,Food,,chase
+01/07/2024,1.99,"GOOGLE *YouTube Videos, Entertainment, Sale",ty20240101_20241231_20250327,Google,Entertainment,monthly,chase
+01/07/2024,8.0,"UA INFLT    0164266337311, Travel, Sale",ty20240101_20241231_20250327,,,,chase
+01/05/2024,8.0,"TWITTER PAID FEATURES, Shopping, Sale",ty20240101_20241231_20250327,Twitter,Office Supplies & Software,software,chase
+01/05/2024,13.84,"TING* INV#MI-2469351, Bills & Utilities, Sale",ty20240101_20241231_20250327,Ting,Cell Phone,phone,chase
+01/03/2024,-4311.64,"AUTOMATIC PAYMENT - THANK, , Payment",ty20240101_20241231_20250327,,,,chase
+01/03/2024,14.99,"ZWIFT  INC., Shopping, Sale",ty20240101_20241231_20250327,Zwift,Health & Wellness,,chase
+01/03/2024,38.69,"PASTRY XPO, Food & Drink, Sale",ty20240101_20241231_20250327,,,,chase
+01/03/2024,10.46,"Amazon web services, Personal, Sale",ty20240101_20241231_20250327,Amazon,Office Supplies & Software,software,chase
+01/02/2024,20.0,"INTUIT *QBooks Online, Shopping, Sale",ty20240101_20241231_20250327,,,,chase
+01/02/2024,36.36,"TST* MEXICALI BLUES INC, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+01/01/2024,289.64,"TST* BUENA VIDA, Food & Drink, Sale",ty20240101_20241231_20250327,,Food,,chase
+01/01/2024,19.9,"UBER   TRIP, Travel, Sale",ty20240101_20241231_20250327,Uber,Travel and Transportation,,chase
