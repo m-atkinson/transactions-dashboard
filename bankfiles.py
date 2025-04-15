@@ -187,6 +187,32 @@ def process_excel_file(excel_file):
 
         # We only need these columns:
         new_df = df[needed_cols].copy()
+        
+        # Standardize date format - convert to datetime
+        try:
+            new_df["Date"] = pd.to_datetime(new_df["Date"], errors='coerce')
+            if new_df["Date"].isna().any():
+                print(f"Warning: Some dates could not be parsed. {new_df['Date'].isna().sum()} rows affected.")
+        except Exception as e:
+            print(f"Warning: Error converting dates to datetime: {e}")
+            
+        # Create a date range statement string
+        try:
+            # Get min and max dates for statement string
+            min_date = new_df["Date"].min()
+            max_date = new_df["Date"].max()
+            
+            # Format for statement string - "MM/DD/YY to MM/DD/YY"
+            statement_string = f"{max_date.strftime('%m/%d/%y')} to {min_date.strftime('%m/%d/%y')}"
+        except Exception as e:
+            print(f"Warning: Could not create date-based statement string: {e}")
+            # Keep the original statement string as fallback
+            
+        # Format the date column consistently as MM/DD/YY after creating the statement string    
+        try:
+            new_df["Date"] = new_df["Date"].dt.strftime('%m/%d/%y')
+        except Exception as e:
+            print(f"Warning: Error standardizing date format: {e}")
 
         # Combine "Description" and "Appears On Your Statement As" into a single "description"
         new_df["description"] = (
@@ -264,9 +290,22 @@ def process_csv_file(csv_file):
 
     # Get available columns
     print("Available columns:", df.columns.tolist())
-
+    
+    # Check if this is a VACU file based on column structure
+    vacu_columns = ["Account Number", "Post Date", "Check", "Description", 
+                    "Debit", "Credit", "Status", "Balance"]
+    is_vacu_file = all(col in df.columns for col in vacu_columns)
+    
     # Define the columns we need
-    needed_columns = ["Date", "Amount", "Description"]
+    needed_columns = ["Date", "Description"]
+    # Check if we have an Amount column or Debit/Credit pair
+    has_amount = "Amount" in df.columns
+    has_debit_credit = "Debit" in df.columns and "Credit" in df.columns
+    
+    # Add Amount to needed columns if we have it
+    if has_amount:
+        needed_columns.append("Amount")
+    
     optional_columns = ["Category", "Type"]
 
     # Check for column presence and create mapping for renaming
@@ -281,7 +320,9 @@ def process_csv_file(csv_file):
         alternatives = {
             "Date": ["Post Date", "Transaction Date", "TRANSACTION DATE", "DATE"],
             "Amount": ["AMOUNT", "TRANSACTION AMOUNT", "Transaction Amount"],
-            "Description": ["DESCRIPTION", "Transaction Description", "Details", "DETAILS"]
+            "Description": ["DESCRIPTION", "Transaction Description", "Details", "DETAILS"],
+            "Debit": ["DEBIT", "Debit Amount", "DR"],
+            "Credit": ["CREDIT", "Credit Amount", "CR"]
         }
 
         found = False
@@ -313,6 +354,28 @@ def process_csv_file(csv_file):
     # Create empty columns for missing ones
     for col in missing_cols:
         df[col] = ""
+    
+    # Handle Debit/Credit columns if Amount doesn't exist
+    if not has_amount and not "Amount" in df.columns:
+        # Check if we have Debit and Credit columns now (after mapping)
+        if "Debit" in df.columns and "Credit" in df.columns:
+            print("Converting Debit/Credit columns to a single Amount column...")
+            
+            # Fill NaN values with empty string or 0
+            df["Debit"] = df["Debit"].fillna(0)
+            df["Credit"] = df["Credit"].fillna(0)
+            
+            # Convert to numeric, coercing errors to NaN then to 0
+            df["Debit"] = pd.to_numeric(df["Debit"], errors='coerce').fillna(0)
+            df["Credit"] = pd.to_numeric(df["Credit"], errors='coerce').fillna(0)
+            
+            # Create Amount column: Debit is positive, Credit is negative
+            df["Amount"] = df["Debit"] - df["Credit"]
+            
+            print("Created Amount column from Debit and Credit.")
+        else:
+            print("Warning: Could not find 'Amount' column or 'Debit'/'Credit' columns.")
+            df["Amount"] = 0  # Create a default Amount column
 
     # Find optional columns or use empty values
     category_col = next((c for c in df.columns if c in ["Category", "CATEGORY"]), None)
@@ -339,8 +402,37 @@ def process_csv_file(csv_file):
         else:
             df["description"] = part.str.strip()
 
+    # Standardize date format for all transactions - strip time component
+    # Convert to datetime first (if not already)
+    df["Date"] = pd.to_datetime(df["Date"], errors='coerce')
+    
+    # Handle any date conversion errors
+    if df["Date"].isna().any():
+        print(f"Warning: Some dates could not be parsed. {df['Date'].isna().sum()} rows affected.")
+    
     # Build our final DataFrame
     new_df = df[["Date", "Amount", "description"]].copy()
+    
+    # Create a date range statement string
+    try:
+        # Get min and max dates for statement string
+        date_objects = pd.to_datetime(new_df["Date"])
+        min_date = date_objects.min()
+        max_date = date_objects.max()
+        
+        # Format for statement string - "MM/DD/YY to MM/DD/YY"
+        statement_string = f"{max_date.strftime('%m/%d/%y')} to {min_date.strftime('%m/%d/%y')}"
+    except Exception as e:
+        print(f"Warning: Could not create date-based statement string: {e}")
+        # Keep the original statement string as fallback
+    
+    # Format the date column consistently as MM/DD/YY after creating the statement string
+    try:
+        # Remove time component and standardize format
+        new_df["Date"] = new_df["Date"].dt.strftime('%m/%d/%y')
+    except Exception as e:
+        print(f"Warning: Error standardizing date format: {e}")
+    
     new_df["statement"] = statement_string
 
     # (C) Now add vendor/category/tag by the same function:
@@ -350,6 +442,11 @@ def process_csv_file(csv_file):
     
     # Determine payment method based on file name and content
     payment_method = determine_payment_method(csv_file, df)
+    
+    # Override payment_method to "vacu" if this is a VACU file
+    if is_vacu_file:
+        payment_method = "vacu"
+        
     new_df["payment method"] = payment_method
 
     # Check if we need to flip signs (more negative numbers than positive)
@@ -374,38 +471,35 @@ def process_csv_file(csv_file):
     else:
         print("\nNo changes were made to the master file.\n")
 
-
 ##############################################################################
-def list_files(file_type):
+def list_files():
     """
-    List all files of a specific type in the current directory.
+    List all supported files (Excel and CSV) in the current directory.
     Returns a list of file paths.
     """
-    if file_type.lower() == 'excel':
-        return glob.glob('*.xlsx') + glob.glob('*.xls')
-    elif file_type.lower() == 'csv':
-        return glob.glob('*.csv') + glob.glob('*.CSV')
-    return []
+    excel_files = glob.glob('*.xlsx') + glob.glob('*.xls')
+    csv_files = glob.glob('*.csv') + glob.glob('*.CSV')
+    return excel_files + csv_files
 
-def select_file(file_type):
+def select_file():
     """
     Prompt user to select a file from a list of available files.
     Returns the selected file path or None if canceled.
     """
-    files = list_files(file_type)
+    files = list_files()
 
     if not files:
-        print(f"No {file_type} files found in the current directory.")
-        manual_path = input(f"Enter the full path to a {file_type} file (or press Enter to cancel): ").strip()
+        print("No Excel or CSV files found in the current directory.")
+        manual_path = input("Enter the full path to a file (or press Enter to cancel): ").strip()
         return manual_path if manual_path else None
 
-    print(f"\nAvailable {file_type} files:")
+    print("\nAvailable files:")
     for i, file in enumerate(files):
         print(f"{i+1}) {file}")
     print(f"{len(files)+1}) Enter a different path")
     print("0) Cancel")
 
-    choice = input(f"Select a {file_type} file (enter number): ").strip()
+    choice = input("Select a file (enter number): ").strip()
     try:
         choice_num = int(choice)
         if choice_num == 0:
@@ -413,35 +507,39 @@ def select_file(file_type):
         elif 1 <= choice_num <= len(files):
             return files[choice_num-1]
         elif choice_num == len(files)+1:
-            manual_path = input(f"Enter the full path to a {file_type} file: ").strip()
+            manual_path = input("Enter the full path to a file: ").strip()
             return manual_path if manual_path else None
     except ValueError:
         print("Invalid choice.")
         return None
 
 ##############################################################################
+def process_file(file_path):
+    """
+    Process a file based on its extension.
+    """
+    if not file_path:
+        print("No file selected. Exiting.")
+        return
+        
+    file_extension = os.path.splitext(file_path)[1].lower()
+    
+    if file_extension in ['.xlsx', '.xls']:
+        process_excel_file(file_path)
+    elif file_extension == '.csv':
+        process_csv_file(file_path)
+    else:
+        print(f"Unsupported file type: {file_extension}")
+        print("Supported file types: .xlsx, .xls, .csv")
+
+##############################################################################
 def main():
     """
-    A main function that allows selecting files dynamically.
+    Main function that automatically determines file type based on extension.
     """
-    print("What type of file do you want to process?\n")
-    print("1) Excel file (.xlsx, .xls)")
-    print("2) CSV file (.csv)")
-    choice = input("Enter 1 or 2 (or q to quit): ").strip().lower()
-
-    if choice == "1":
-        file_path = select_file('excel')
-        if file_path:
-            process_excel_file(file_path)
-    elif choice == "2":
-        file_path = select_file('csv')
-        if file_path:
-            process_csv_file(file_path)
-    elif choice in ['q', 'quit', 'exit']:
-        print("Exiting the program.")
-    else:
-        print("Invalid choice. Exiting.")
-
+    file_path = select_file()
+    if file_path:
+        process_file(file_path)
 
 if __name__ == "__main__":
     main()
